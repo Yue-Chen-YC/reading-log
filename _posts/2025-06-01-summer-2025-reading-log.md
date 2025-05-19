@@ -1,7 +1,7 @@
 ---
-title: "Fox (2021) Anaphora in Minimalism – 摘要+评述"
+title: "Reading Log – Summer 2025"
 categories: [reading]
-tags: [reflexive, syntax]
+tags: [syntax, reflexive]
 ---
 
 # Reading Log – Summer 2025
