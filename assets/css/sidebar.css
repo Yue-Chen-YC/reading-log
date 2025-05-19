@@ -54,3 +54,26 @@
   .layout       { flex-direction: column; }
   .sidebar      { flex: none; border-right: none; border-bottom: 1px solid #e0e0e0; }
 }
+
+/* ========= 布局 ========= */
+.layout { display:flex; gap:2rem; max-width:1200px; margin:0 auto; padding:1rem; }
+
+/* ---------- 侧栏 ---------- */
+.sidebar        { flex:0 0 240px; max-height:calc(100vh - 120px); overflow-y:auto; border-right:1px solid #e0e0e0; }
+.sidebar select { width:100%; margin-bottom:1rem; padding:4px; }
+
+.sidebar-title  { font-size:1.1rem; margin:0 0 .5rem; }
+.paper-list     { list-style:none; padding:0; margin:0; }
+.paper-list li  { margin-bottom:.5rem; }
+.paper-list a   { text-decoration:none; color:var(--text-color,#333); }
+.paper-list a.active,
+.paper-list a:hover { font-weight:600; color:var(--accent-color,#003366); }
+
+/* ---------- 正文 ---------- */
+.content { flex:1 1 0; min-width:0; }
+
+/* ========= 响应式窄屏 ========= */
+@media (max-width:768px){
+  .layout  { flex-direction:column; }
+  .sidebar { flex:none; border-right:none; border-bottom:1px solid #e0e0e0; }
+}
