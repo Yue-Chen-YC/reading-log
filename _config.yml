@@ -1,5 +1,6 @@
 # --- 站点基本信息 --------------------------------------------------------
 remote_theme: "mmistakes/so-simple-theme"   # GitHub Pages 支持的远程主题
+skin: "/assets/css/skins/default.css"
 locale     : "en-US"
 url        : "https://yue-chen-yc.github.io"  
 title: "Read • Write • Repeat" # 不要尾斜杠
@@ -11,6 +12,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
+
+# Taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # --- 构建设置 ------------------------------------------------------------
 permalink: /:categories/:title/
