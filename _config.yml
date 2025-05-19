@@ -11,13 +11,10 @@ baseurl    : "/reading-log/"                       # 仓库名
 paginate: 10
 paginate_path: "/page:num"
 plugins:
-  - jekyll-paginate
-
-plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-paginate        # 与 paginate 配套
+  - jekyll-paginate
 
 # --- 构建设置 ------------------------------------------------------------
 permalink: /:categories/:title/
