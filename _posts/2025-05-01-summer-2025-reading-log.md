@@ -3,12 +3,9 @@ title: "Summer 2025 📚"
 categories: [reading]
 tags: [syntax, reflexive]
 ---
-
-# Reading Log – Summer 2025
-
 👉 See full BibTeX file: [library.bib](../library.bib)
 
-| 项目 | 内容 |
+| Paper/Book | Description |
 |------|------|
 | **Research Question** | How are exempt anaphors licensed? |
 | **Method** | Theoretical analysis |
