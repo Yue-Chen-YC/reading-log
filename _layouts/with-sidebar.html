@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="{{ "/assets/css/sidebar.css" | relative_url }}">
+  {%- include head.html -%}               <!-- So Simple 自带的 SEO/favicon 等 -->
+</head>
+
+<body>
+  {%- include header.html -%}             <!-- So Simple 的站点顶部栏 -->
+
+  <main class="layout">
+    <!-- ---------- 左侧：侧栏导航 ---------- -->
+    <aside class="sidebar" aria-label="Paper list">
+      <h2 class="sidebar-title">📚 Papers</h2>
+      <nav>
+        <ul class="paper-list">
+          {%- comment -%}
+          列举所有文章；如果只想列举某分类，可用 where_exp
+          {%- endcomment -%}
+          {%- for post in site.posts %}
+            <li>
+              <a href="{{ post.url | relative_url }}"
+                 class="{% if post.url == page.url %}active{% endif %}">
+                {{ post.title }}
+              </a>
+            </li>
+          {%- endfor %}
+        </ul>
+      </nav>
+    </aside>
+
+    <!-- ---------- 右侧：正文内容 ---------- -->
+    <article class="content">
+      {{ content }}
+    </article>
+  </main>
+
+  {%- include footer.html -%}
+</body>
+</html>
