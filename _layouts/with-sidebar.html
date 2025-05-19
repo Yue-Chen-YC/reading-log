@@ -5,39 +5,63 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="stylesheet" href="{{ "/assets/css/sidebar.css" | relative_url }}">
-  {%- include head.html -%}               <!-- So Simple 自带的 SEO/favicon 等 -->
+  {%- include head.html -%}
 </head>
 
 <body>
-  {%- include header.html -%}             <!-- So Simple 的站点顶部栏 -->
+  {%- include header.html -%}
 
   <main class="layout">
-    <!-- ---------- 左侧：侧栏导航 ---------- -->
+    <!-- ===== 左栏 ===== -->
     <aside class="sidebar" aria-label="Paper list">
+      <!-- —— 1. 标签过滤器 —— -->
+      <label for="tag-filter" class="sidebar-title">🔎 Filter by tag</label>
+      <select id="tag-filter">
+        <option value="all">All tags</option>
+        {% assign alltags = site.tags | sort_natural %}
+        {% for tag in alltags %}
+          <option value="{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</option>
+        {% endfor %}
+      </select>
+
+      <!-- —— 2. 文章列表 —— -->
       <h2 class="sidebar-title">📚 Papers</h2>
       <nav>
-        <ul class="paper-list">
-          {%- comment -%}
-          列举所有文章；如果只想列举某分类，可用 where_exp
-          {%- endcomment -%}
-          {%- for post in site.posts %}
-            <li>
+        <ul id="paper-list" class="paper-list">
+          {% for post in site.posts %}
+            <li data-tags="{{ post.tags | join: ' ' }}">
               <a href="{{ post.url | relative_url }}"
                  class="{% if post.url == page.url %}active{% endif %}">
                 {{ post.title }}
               </a>
             </li>
-          {%- endfor %}
+          {% endfor %}
         </ul>
       </nav>
     </aside>
 
-    <!-- ---------- 右侧：正文内容 ---------- -->
+    <!-- ===== 正文 ===== -->
     <article class="content">
       {{ content }}
     </article>
   </main>
 
   {%- include footer.html -%}
+
+  <!-- ===== 过滤脚本 ===== -->
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const select = document.getElementById("tag-filter");
+      const items  = [...document.querySelectorAll("#paper-list li")];
+
+      select.addEventListener("change", () => {
+        const tag = select.value;
+        items.forEach(li => {
+          const hasTag = li.dataset.tags.split(" ").includes(tag);
+          li.style.display = (tag === "all" || hasTag) ? "" : "none";
+        });
+      });
+    });
+  </script>
 </body>
 </html>
