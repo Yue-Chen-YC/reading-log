@@ -3,4 +3,4 @@
 ## This is Yue Chen's reading record
 - ## 📚 Reading Log
 - [2025 Summer Reading](./2025S.md)
-- [BibTeX 数据库](./library.bib)
+- [BibTeX](./library.bib)
