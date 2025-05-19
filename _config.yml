@@ -13,11 +13,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-# Taxonomy pages
-collections_dir: collections
-categories_page:    true
-tags_page:          true
-
 # --- 构建设置 ------------------------------------------------------------
 permalink: /:categories/:title/
 markdown : kramdown
