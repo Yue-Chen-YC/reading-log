@@ -1,9 +1,10 @@
 ---
-title: "Summer 2025 📚"
+layout: with-sidebar
+title : "Reading Log – Summer 2025"
 categories: [reading]
 tags: [syntax, reflexive]
+excerpt: "👉 See full BibTeX file in library.bib"
 ---
-👉 See full BibTeX file: [library.bib](../library.bib)
 
 | Paper/Book | Description |
 |------|------|
