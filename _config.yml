@@ -1,0 +1,33 @@
+# --- 站点基本信息 --------------------------------------------------------
+remote_theme: "mmistakes/so-simple-theme"   # GitHub Pages 支持的远程主题
+
+title      : "Reading Log"
+description: "Acquisition, Heritage, Reflexives – Research Notes"
+locale     : "en-US"
+url        : "https://yue-chen-yc.github.io"      # 不要尾斜杠
+baseurl    : "/reading-log"                       # 仓库名
+
+# --- 分页 ----------------------------------------------------------------
+paginate      : 10          # 每页文章数量
+paginate_path : "/page:num" # /page2 /page3 …
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate        # 与 paginate 配套
+
+# --- 构建设置 ------------------------------------------------------------
+permalink: /:categories/:title/
+markdown : kramdown
+liquid:
+  error_mode: strict
+
+# --- 默认 Front-Matter ---------------------------------------------------
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share : true
