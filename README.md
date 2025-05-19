@@ -1,9 +1,3 @@
----
-layout: page
-permalink: /awards/index.html
-title: Awards
----
+> Lastest Update: 18th May 2025 &nbsp;
 
-> Lastest Update: 13th April 2024 &nbsp;
-
-## Current reading
+## This is Yue Chen's reading record
