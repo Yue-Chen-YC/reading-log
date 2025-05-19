@@ -1,7 +1,7 @@
 # --- 站点基本信息 --------------------------------------------------------
 remote_theme: "mmistakes/so-simple-theme"   # GitHub Pages 支持的远程主题
 
-title      : "Reading Log"
+title      : "Yue's Reading Log"
 description: "Research Reading Notes"
 locale     : "en-US"
 url        : "https://yue-chen-yc.github.io"      # 不要尾斜杠
