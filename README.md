@@ -1,4 +1,6 @@
 > Lastest Update: 18th May 2025 &nbsp;
 
 ## This is Yue Chen's reading record
-- New folder added 2025S.md
+- ## 📚 Reading Log
+- [2025 Summer Reading](./2025S.md)
+- [BibTeX 数据库](./library.bib)
