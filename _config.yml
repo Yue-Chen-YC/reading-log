@@ -2,10 +2,10 @@
 remote_theme: "mmistakes/so-simple-theme"   # GitHub Pages 支持的远程主题
 
 title      : "Reading Log"
-description: "Acquisition, Heritage, Reflexives – Research Notes"
+description: "Research Reading Notes"
 locale     : "en-US"
 url        : "https://yue-chen-yc.github.io"      # 不要尾斜杠
-baseurl    : "/reading-log"                       # 仓库名
+baseurl    : "/reading-log/"                       # 仓库名
 
 # --- 分页 ----------------------------------------------------------------
 paginate      : 10          # 每页文章数量
