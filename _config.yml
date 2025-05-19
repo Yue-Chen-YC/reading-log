@@ -1,7 +1,8 @@
 # --- 站点基本信息 --------------------------------------------------------
 remote_theme: "mmistakes/so-simple-theme"   # GitHub Pages 支持的远程主题
 locale     : "en-US"
-url        : "https://yue-chen-yc.github.io"      # 不要尾斜杠
+url        : "https://yue-chen-yc.github.io"  
+description: "Read • Write • Repeat" # 不要尾斜杠
 baseurl    : "/reading-log/"                       # 仓库名
 
 # --- 分页 ----------------------------------------------------------------
