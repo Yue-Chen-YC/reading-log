@@ -1,9 +1,7 @@
 ---
 layout: with-sidebar
 title : "Reading Log – Summer 2025"
-categories: [reading]
-tags: [syntax, reflexive]
-excerpt: "👉 See full BibTeX file in library.bib"
+tags  : [syntax, reflexive]
 ---
 
 | Paper/Book | Description |
