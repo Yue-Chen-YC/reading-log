@@ -8,8 +8,10 @@ url        : "https://yue-chen-yc.github.io"      # 不要尾斜杠
 baseurl    : "/reading-log/"                       # 仓库名
 
 # --- 分页 ----------------------------------------------------------------
-paginate      : 10          # 每页文章数量
-paginate_path : "/page:num" # /page2 /page3 …
+paginate: 10
+paginate_path: "/page:num"
+plugins:
+  - jekyll-paginate
 
 plugins:
   - jekyll-feed
