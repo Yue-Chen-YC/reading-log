@@ -6,8 +6,6 @@ title: "Read • Write • Repeat" # 不要尾斜杠
 baseurl    : "/reading-log"                       # 仓库名
 
 # --- 分页 ----------------------------------------------------------------
-paginate: 10
-paginate_path: "/page:num"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
