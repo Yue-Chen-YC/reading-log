@@ -2,7 +2,6 @@
 tags  : [Proficiency, Self-report]
 category: [Bilingualism, Picture Naming, Language Test]
 ---
-👉 See full BibTeX file: [library.bib](../library.bib)
 
 ## Predicting proficiency (Neveu et al., 2025)
 
