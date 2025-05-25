@@ -2,8 +2,6 @@
 tags  : [Autistic Traits, Individual-difference]
 category: [AQ]
 ---
-👉 See full BibTeX file: [library.bib](../library.bib)
-
 ## Predicting proficiency (Yu et al., 2013)
 
 ## Citation 
