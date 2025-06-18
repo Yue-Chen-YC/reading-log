@@ -17,8 +17,8 @@ Studies focus on the production of classifiers in Mandarin HS have shown that se
 
 ## Hypothesis 
 If the processing of classifiers is primarily driven by semantic features, objects/nouns that have semantic features associated with that classifier (S+) should receive more looks relative to the ones that do not (S-).
-G+S+ 一条绳子
-G+S- 一条狗
+G+S+ 一条绳子, 一条狗
+G+S- 一条手表
 G-S- 一条苹果
 
 ## Method
