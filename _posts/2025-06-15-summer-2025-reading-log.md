@@ -24,8 +24,13 @@ G-S- 一条苹果
 ## Method
 Adopts the method used by Gruter et al. (2020), to examine the processing of Mandarin sortal classifiers in Mandarin adult HSs living in a society where English is the dominant language, and aims to address two research questions: 
 1. At the group level, what are the performance patterns of Mandarin-English HSs on an eye-tracking task examining Mandarin sortal classifiers? What is the status of classifiers as grammatical (-G, +G) and semantic cues (-S, +S) in HSs' mental grammars and sentence processing?
-2. How do individual-level bilingual language experience factors modulate HSs' performances? 
+2. How do individual-level bilingual language experience factors modulate HSs' performances?
 
+Tests 
+- Visual World Eye-tracking
+- LSBQ questionnaire
+- Elicited production
+- Listening: HSK Level 2
 ## Analyses
 
 ## Results
