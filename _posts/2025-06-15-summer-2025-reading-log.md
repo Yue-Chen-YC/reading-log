@@ -29,7 +29,7 @@ Adopts the method used by Gruter et al. (2020), to examine the processing of Man
 Tests 
 - Visual World Eye-tracking
 - LSBQ questionnaire
-- Elicited production
+- Elicited production: 12 classifier and target noun pairs used in the Visual World experiment with 38 fillers. -> to examine whether participants have the item-specific classifier-noun pairing representations of the target classifiers to the target nouns. 
 - Listening: HSK Level 2
 ## Analyses
 
