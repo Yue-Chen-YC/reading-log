@@ -8,6 +8,11 @@ category: [HS, Mandarin]
 Hao, J., Kubota, M., Bayram, F., González Alonso, J., Grüter, T., Li, M., & Rothman, J. (2024). Schooling and language usage matter in heritage bilingual processing: Sortal classifiers in Mandarin. Second Language Research, 02676583241270900.
 
 ## My thoughts
+I found the association between grammatical and semantic features in the paper to be somewhat unclear and, at times, seemingly casual. For example, the notion that G+ (grammatical) aligns with prototypical semantic features of a classifier (S+) raises some questions. While the example of 'tiao' (associated with objects that are long, slender, and flexible) makes sense in prototypical cases such as 'rope' (绳子), it becomes less convincing in other contexts. For instance, cats are arguably long, slender, and flexible, yet we don’t refer to a cat as 一条猫. This discrepancy suggests that the semantic association is not always straightforward or consistent.
+
+**G+S+ 一条绳子 vs 一条狗 = competitor objects match with target classifer in both grammatical and semantic features
+G-S+ 一条手表 vs 一条狗 = competitor objects that matched with the target classifier in semantic features but not in grammatical form class
+G-S- 一条苹果 vs 一条狗 = competitor objects that neither matched with target classifier in semantic features but not in grammatical form class**
 
 ## Backgorund 
 Huettig et al. (2010) found that Mandarin-speaking L1-dominant adults in a visual world eye-tracking study showed that linguistic stimuli that had a classifier compatible with the target noun in the visual scene facilitated processing (look at the target faster) relative to linguistic stimuli without a classifier. 
@@ -17,9 +22,9 @@ Studies focus on the production of classifiers in Mandarin HS have shown that se
 
 ## Hypothesis 
 If the processing of classifiers is primarily driven by semantic features, objects/nouns that have semantic features associated with that classifier (S+) should receive more looks relative to the ones that do not (S-).
-G+S+ 一条绳子, 一条狗
-G+S- 一条手表
-G-S- 一条苹果
+G+S+ 一条绳子 vs 一条狗
+G-S+ 一条手表 vs 一条狗
+G-S- 一条苹果 vs 一条狗
 
 ## Method
 Adopts the method used by Gruter et al. (2020), to examine the processing of Mandarin sortal classifiers in Mandarin adult HSs living in a society where English is the dominant language, and aims to address two research questions: 
@@ -34,3 +39,6 @@ Tests
 ## Analyses
 
 ## Results
+- A significant difference between G+S+ 一条绳子 and G-S+
+- No difference between the G-S+ condition and the G-S- condition
+- A significant difference between the G+S+ condition and the G-S- condition
