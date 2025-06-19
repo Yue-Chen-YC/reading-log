@@ -9,4 +9,4 @@ Zhang, N. N. (2013). Classifier structures in mandarin Chinese (Vol. 263). Walte
 
 ## Things I learned 
 - ## Chapter One
-- Classifiers such as zhi are called individual classifiers, and di is called individuating classifiers (CLs).
+- Classifiers such as zhi are called individual classifiers, and di is called an individuating classifier (CLs) (Chao, 1968).
