@@ -28,10 +28,23 @@ Maybe it's an animacy difference, if both dog and rope are in the same membershi
 
 ## Hypothesis 
 This study examines the long-standing claims that L2 learners rely more on non-grammatical cues than on grammatical cues during sentence processing compared to native speakers. 
+Research questions: 
+- Do L1 and L2 listners differ in their use of grammatical form-class information vs. semantics encoded by classifiers to predict an upcoming noun?
+- L2 learners tend to rely more heavily on semantics than on grammatical information, and we predict that reliance on semantic vs. form-class information will be greater among L2 than among L1 listeners. 
 
 ## Method
+Pariticpants
+- 96 in total, 38 native, 58 non-native speakers of Chinese
 
+Suvery 
+Visual world paradigm
 ## Tests 
+Visual world paradigm: which one is the dog? 哪一条是狗？
+three sortal classifiers 
+- 条
+- 支
+- 张
+12 target nouns based on the non-prototypical memebers of thie classifer class
 
 ## Results
 Results show that L2 listeners experienced greater competition than L1 listeners from nouns that were grammatically incompatible with the classifier they heard but shared semantic features associated with it. The greater reliance on semantic cues observed in L2 processing is argued to be an effect of adaptation to the relative reliability of information. 
