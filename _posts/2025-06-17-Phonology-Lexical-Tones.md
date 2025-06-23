@@ -9,13 +9,13 @@ Zhou C, Veríssimo J. L2 difficulties in the perception of Mandarin tones: Phono
 
 ## My thoughts
 - OCP operates as a language-specific phonotactic constraint and is acquired on the basis of input distribution (Boll-Avetisyan, 2012; Boll-Avetisyan & Kager, 2014).
-- OCP : Identical vs non-identical
-- TMS: accuracies in rising, falling and level tone pairs.
-- Their use of Lextale is a recognition of form, does not measure tone perception.
+- OCP: Identical vs non-identical
+- TMS: accuracies in rising, falling, and level tone pairs.
+- Their use of Lextale is a recognition of form, and does not measure tone perception.
 - The statistical models were fit in a Bayesian Framework, and combined prior information with evidence from the data to produce a posterior distribution for each parameter, which is the probability distribution over a parameter's possible values. Importantly, and in contrast to frequentist analyses, Bayes factors can provide support for the null hypothesis, that is, for the equality between conditions or groups. They calculated the natural logarithm of the Bayes factor in favour of the alternative hypothesis using the Savage-Dickey method. Values of InBF10 greater than 1 support the hypothesis that an effect is different from zero (H1), while negative values smaller than -1 support the hypothesis that the effect is absent (H0), values of InBF10 between -1 and 1 are essentially inconclusive.
-- can accuracy proportion = production proportion
-- Start with stats models with OCP and TMS and then combine them with Bayesian mixed-effects models to analyze the factors, not sure if I want to include vocabulary measures, maybe use age as a grouping factor, and run separate models with children and adults.
-- can do analysis of rates in each syllabic position (across identical and non-identical pairs)
+- can accuracy proportion = production proportion?
+- Start with stats models with OCP and TMS, and then combine them with Bayesian mixed-effects models to analyze the factors, not sure if I want to include vocabulary measures, maybe use age as a grouping factor, and run separate models with children and adults.
+- can do analysis of rates in each syllabic position (across identical and non-identical pairs)?
 
 
 ## Tones in Mandarin 
