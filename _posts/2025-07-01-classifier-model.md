@@ -9,8 +9,8 @@ Järnfors, J., Chen, G., van Deemter, K., & Sybesma, R. (2021, August). Using BE
 
 ## My thoughts
 
-Future Direction
-- Comparsion with Human judgment 
+## Future Direction
+- Comparison with Human judgment 
 - Asking the model to output the most probable classifier from all possible classifiers only
 
 
@@ -31,7 +31,7 @@ Future Direction
 
 ## 4 models and 1 corpus 
 
-Models
+## Models
 1. Unsupervised way (predicting classifiers by unmasking masked tokens) BERT
 2. Supervised way (fine-tuning BERT on the task of classifier prediction)
 3. LSTM-based system
@@ -39,7 +39,7 @@ Models
 5. Rule-based model
    - Given a head noun, assign the most frequent classifier associated with it in the training data
 
-Corpus
+## Corpus
 CCD corpus (ChineseClassifierDataset)
 
 ## Results
@@ -47,13 +47,14 @@ CCD corpus (ChineseClassifierDataset)
 Fine-tuned BERT performed the best, and the LSTM model performed the second best, the unsupervised BERT model followed next, and the rule-based model came last. 
 Fine-tuned BERT struggles to predict classifiers that add information (measurement, plurality, politeness)
 
-Classifier categories 
+## Classifier categories 
 - True classifier, highest frequency, highest accuracy 
 - Measure words, second frequency, third accuracy 
 - Dual classifier, third frequency, second accuracy 
 
-Distance between the classifier and the head noun 
+## Distance between the classifier and the head noun 
 - For correct predictions, the average distance is 1.04, for incorrect predictions, it is 1.15
 - Unpaired t-test confirms the distance has a negative effect on the model’s performance (p < 0.001)
+- the distances of the correct predictions are shorter than for the incorrect predictions
 
 
