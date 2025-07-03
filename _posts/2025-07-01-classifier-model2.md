@@ -12,6 +12,9 @@ Compare the eye-tracking dataset with BERT prediction for sentences with/without
 
 
 Their use of the Wilcoxon rank-sum test for both fixation data and model prediction due to abnormal distribution for the two samples for fixation data (one with a classifier and one without a classifier), shouldn't we log-transform the fixation duration? 
+- These fixation durations are indeed (likely) not normally distributed. For analysis, the authors should consider the following. First, (a) do they want to conduct a simple test for differences in means, or (b) do they want to fit a regression model to possibly incorporate other predictors and/or random effects into the model? It seems they went with (a). In that case, because they are analyzing continuous data, they are choosing between a t-test and a Wilcoxon test. T-tests are appropriate only for normally distributed data, but the Wilcoxon test (which is non-parametric) is appropriate for non-normally distributed data as well. If they had gone with (b), which is the current expectation in most top psycholinguistic journals, then they may have considered transforming the fixation times in order to (i) have a continuous, unbounded response variable and/or (ii) ensure normality of the residuals, but that non-normality of a continuous response variable is not in-and-of-itself a problem.
+So in short, the test the authors used was appropriate given properties of the data, but these days journals do expect regression models rather than simple tests for a difference in means, like the Wilcoxon test.
+I am also surprised that they put so much emphasis on the "reduced by 20.632%", which is the likelihood of type M error in under-powered studies is quite high, so it's likely that this result is an overestimate of the true effect.
 
 ## Background
 - Recent research suggests that classifiers can facilitate the understanding of subsequent nouns.
