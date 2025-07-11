@@ -11,7 +11,9 @@ Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019, June). Bert: Pre-train
 
 
 ## BERT
-BERT（Bidirectional Encoder Representations from Transformers）是一个通用的预训练语言模型，旨在通过双向Transformer架构，生成深层的上下文语言表示。它的核心创新在于**双向预训练（bidirectional pre-training）和微调（fine-tuning）**方法，使其能够在广泛的自然语言处理（NLP）任务中实现卓越表现。
+BERT（Bidirectional Encoder Representations from Transformers）是一个通用的预训练语言模型，旨在通过双向Transformer架构，生成深层的上下文语言表示。它的核心创新在于双向预训练（bidirectional pre-training）和微调（fine-tuning方法，使其能够在广泛的自然语言处理（NLP）任务中实现卓越表现。
+- designed for pretraining deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers
+- can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference
 
 ## BERT 的核心架构
 BERT 的架构基于 Transformer 编码器（Encoder），具体如下：
