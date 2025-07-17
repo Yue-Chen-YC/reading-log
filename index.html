@@ -3,8 +3,38 @@ layout: home          # So Simple 主题自带的首页布局
 title: Bookshelf 📖
 ---
 
-{% for post in paginator.posts %}
-<a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  <p class="date">{{ post.date | date_to_string }}</p>
-  {{ post.excerpt }}
+<h1>Posts by Category</h1>
+
+{% assign categories = site.posts | map: "category" | uniq | sort %}
+{% for category in categories %}
+  <h2>{{ category | join: ", " }}</h2>
+  <ul>
+    {% for post in site.posts %}
+      {% if post.category contains category %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <p class="date">{{ post.date | date_to_string }}</p>
+          {{ post.excerpt }}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+<h1>Posts by Tags</h1>
+
+{% assign tags = site.posts | map: "tags" | uniq | sort %}
+{% for tag in tags %}
+  <h2>{{ tag | join: ", " }}</h2>
+  <ul>
+    {% for post in site.posts %}
+      {% if post.tags contains tag %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <p class="date">{{ post.date | date_to_string }}</p>
+          {{ post.excerpt }}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
 {% endfor %}
