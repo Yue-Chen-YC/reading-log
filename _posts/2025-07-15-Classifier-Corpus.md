@@ -11,6 +11,7 @@ Peinelt, N., Liakata, M., & Hsieh, S. K. (2017, November). ClassifierGuesser: A 
 - They mentioned databases with semantic features of Chinese classifiers (Gao, 2011) -> Helena Hong Gao. 2011. E-learning design for
 Chinese classifiers: Reclassification. Communications in Computer and Information Science, 177:186–199
   - I need to check it out
+ - 突然发现我能不能use classifier to predict adjective, wang, et al., 2023 found for models, it's beneficial to have classifiers without classifiers for both verbs and nouns, and they used Word-level BERT (wobert_chinese_base) to predict subsequent nouns and preceding verbs in 2 environments (one with classifiers and one without classifiers)
 
 
 ## Introduction 
