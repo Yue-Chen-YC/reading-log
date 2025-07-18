@@ -31,10 +31,8 @@ Hao, H., Fuchs, Z., & Vasishth, S. (2024). Similarity-Based Interference in the 
 - 根据名词的语义特征，形容词的选择范围会受到限制（如具体物体选择表示颜色的形容词，抽象事件选择动态性质的形容词）。
 
 ## Summary
-A significant area of psycholinguistic research has been dedicated to investigating the cognitive mechanisms underlying the processing of long-distance dependencies.
-
-This paper found evidence for a predicted interference effect in retroactive configurations, but no interference in proactive configurations. 
-
+A significant area of psycholinguistic research has been dedicated to investigating the cognitive mechanisms underlying the processing of long-distance dependencies. This paper ask wehther classifier-specific cues guide the retrieval of their associated nouns. Whether nouns in a classifier language like Mandarin Chinese are encoded with classifier-related features. 
+This paper found evidence for a predicted interference effect in retroactive configurations, but no interference in proactive configurations. Found nouns in Mandarin Chinese are indeed encoded with a classifier-specific feature, and lexical-specific cues can not only be derived from verbs, but also from classifiers. Classifier-noun compatibility is gradient rather than categorical. Found asymmetry between target match and target mismatch conditions, where they consistently found facilitatory interference in target mismatch conditions, but no inhibitory interference in target match conditions.
 
 ## Introduction 
 
@@ -128,5 +126,23 @@ Facilitatory interference（促进性干扰）:
  - 这是语言处理中的形式阶段，指的是将语义特征（如数、性等）映射到语言的形态形式（morphological forms）上。
 - 语义特征对句法的调节作用：
 - 句法依赖关系（如主谓一致）不仅是形式上的规则约束，还受到语义特征（如概念复数和分布性）的显著影响。
-## Method
 
+## Classifier-noun dependencies in Mandarin Chinese
+- In Mandarin Chinese, a classifier is typically required when a countable noun is preceded by a numeral or a demonstrative
+- In canonical word order, the classifier usually precedes the noun
+- Compatibility between a classifier and a noun is usually determined by certain semantic properties of the noun
+- Classifiers can be used for nouns outside of their semantic class
+  - Gradient effect 
+
+## Method
+- SPR
+- A-Maze
+- Retroactive interference（逆向干扰）：干扰项插入到两个依赖元素之间。例如，一个干扰名词（distractor noun）出现在正确的名词依赖项（correct noun dependent）和分类词（classifier）之间。
+
+- Proactive interference（前向干扰）：干扰项出现在依赖元素的左侧。例如，干扰名词（distractor noun）出现在正确名词依赖项（correct noun dependent）和分类词（classifier）之前。
+
+## Hypothesis 
+- longer reading times at the classifier for target mismatch conditions in comparison to target match conditions, as the semantic mismatch between a classifier and its dependent noun has been shown to cause disruptions in processing in various studies
+
+## Participants
+- 80 native Mandarin speaker
