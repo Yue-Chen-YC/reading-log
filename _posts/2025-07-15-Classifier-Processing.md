@@ -8,6 +8,13 @@ category: [Mandarin, Classifier, Cue-based retrieval]
 Hao, H., Fuchs, Z., & Vasishth, S. (2024). Similarity-Based Interference in the Processing of Classifier-Noun Dependencies in Mandarin Chinese.
 
 ## My thoughts
+-  普通话中的名词不仅携带句法或语义特征，还可能编码量词相关的特征 （量词的特征会encode到noun和adjective）
+  - ## 名词、量词和形容词的交互关系
+    - ## 量词的双重功能： 量词不仅是一个数量表达工具，还通过语义特征赋值（semantic marking）影响名词的解释和形容词的选择范围。
+    - ## 名词的动态语义特征编码： 名词的语义特征并非静态，而是会根据语言上下文（如量词的使用）进行动态调整。例如： “球”在“颗”标记下是具体物体，但在“场”标记下变成抽象事件。这种动态语义特征编码可以解释普通话中的许多量词-名词-形容词组合现象。
+    - ## 形容词选择的依赖性：形容词的选择范围不仅取决于名词的语义特征，还受到量词的间接影响。这表明，量词、名词和形容词之间存在复杂的交互关系。
+    
+- 量词与名词的匹配关系不仅仅是句法上的约束，更可能是认知层面的一种特征编码现象
 - 如果 verb-specific cues are derived from the idiosyncratic properties of individual lexical items, such as those readable from the verb read, nouns "plate" and "cup" both have [+shatterable] feature. adjective应该也一样，如果是一颗球，可以红可以绿，但是是一场球，不可以是红色绿色，而是别的形容词，是base在classifier的use上来给noun assign a feature，或者说classifier，改变了这个noun的property。
 - 这个是lexicon-specific features
   - 语义搭配的问题，量词可以重新定义名词的特征，从而影响与其搭配的修饰语，汉语中的分类词（如“颗”、“场”）会改变名词的解释，从而影响修饰语的选择范围
@@ -22,7 +29,7 @@ Hao, H., Fuchs, Z., & Vasishth, S. (2024). Similarity-Based Interference in the 
   - “颗”强调名词的物理特性，因此可以搭配表示颜色、形状等具体特征的形容词。
   - “场”强调名词的抽象特性，因此只能搭配与事件相关的形容词。
   - 在汉语中，分类词（classifiers）起到了类似 Marking 的功能，它们通过赋予名词额外的语义特征来改变其属性。
-
+  
 “那一颗红色的球”和“一场精彩的球”可以被视为汉语中的一种 Marking and Morphing 现象，具体体现在：
 - 分类词（classifiers）作为 Marking 的工具：
 - 分类词为名词分配语义特征（具体 vs. 抽象、物理性 vs. 动态性），从而改变名词的解释。
@@ -33,6 +40,41 @@ Hao, H., Fuchs, Z., & Vasishth, S. (2024). Similarity-Based Interference in the 
 ## Summary
 A significant area of psycholinguistic research has been dedicated to investigating the cognitive mechanisms underlying the processing of long-distance dependencies. This paper ask wehther classifier-specific cues guide the retrieval of their associated nouns. Whether nouns in a classifier language like Mandarin Chinese are encoded with classifier-related features. 
 This paper found evidence for a predicted interference effect in retroactive configurations, but no interference in proactive configurations. Found nouns in Mandarin Chinese are indeed encoded with a classifier-specific feature, and lexical-specific cues can not only be derived from verbs, but also from classifiers. Classifier-noun compatibility is gradient rather than categorical. Found asymmetry between target match and target mismatch conditions, where they consistently found facilitatory interference in target mismatch conditions, but no inhibitory interference in target match conditions.
+
+## 主要发现
+## 量词可提供词汇特定线索：
+- 量词在依赖关系处理中会设置特定的语义检索线索（如“本”与书相关，“张”与平面物体相关）。
+- 名词在记忆中可能被编码为具有量词相关特征（classifier-specific features）。
+- 量词特征的编码可以通过高维语义表示（high-dimensional semantic representation）来解释：
+ ## -  非二元特征：
+  -  名词与量词的匹配并非绝对的二元关系（如 [+本] 或 [-本]），而是连续的、渐变的，即量词与名词之间可能存在不同程度的兼容性。
+    - 例如，“书”与“本
+##  - 高维向量表示：
+    - 名词和量词的兼容性可以用高维向量表示，例如将“书”表示为一个包含卷册属性的向量，“本”可以被视为一个与该向量接近的点。名词和量词的匹配程度可以通过向量距离来计算。
+##  - 动态记忆模型：
+    - 在句法处理过程中，量词会激活特定的线索（如 [+本]），并在记忆中检索与这些线索最相似的名词。
+    - 这种机制避免了每次都对整个记忆进行线性搜索，而是通过内容寻址（content-addressable memory）快速定位目标。”的兼容性很高，但“杂志”与“本”可能稍低。
+
+## 回溯干扰（Retroactive interference）显著：
+- 当干扰词插入在目标名词和量词之间时，如果干扰词与量词匹配，会出现显著的干扰效应。
+- 目标匹配条件：
+  - 干扰词匹配时，处理速度变慢（抑制性干扰，inhibitory interference）。
+- 目标不匹配条件：
+  - 干扰词匹配时，处理速度加快（促进性干扰，facilitatory interference）。
+
+## 前摄干扰（Proactive interference）较弱：
+- 当干扰词出现在目标名词之前时，干扰效应不显著。
+- 可能原因：
+  - 干扰词在记忆中因时间衰减而激活水平降低。
+  - 干扰词的句法位置（如嵌套在从句中）可能降低其干扰能力。
+
+## 干扰效应的不对称性：
+- 回溯干扰中，促进性干扰（facilitatory interference）比抑制性干扰更容易被观察到。
+- 支持了一个“修复机制”（repair-based mechanism）的假设：当依赖关系匹配失败时，检索过程会被触发以修复错误。
+
+## A-Maze 方法的成功应用：
+- A-Maze 方法比spr更能检测到干扰效应，尤其是在在线实验中。
+- 使用 A-Maze 成功复制了回溯干扰的实验结果。
 
 ## Introduction 
 
