@@ -21,6 +21,14 @@ Hao, H., Fuchs, Z., & Vasishth, S. (2024). Similarity-Based Interference in the 
 - 分类词会根据语境重新分配名词的语义特征，从而影响形容词的搭配。例如：
   - “颗”强调名词的物理特性，因此可以搭配表示颜色、形状等具体特征的形容词。
   - “场”强调名词的抽象特性，因此只能搭配与事件相关的形容词。
+  - 在汉语中，分类词（classifiers）起到了类似 Marking 的功能，它们通过赋予名词额外的语义特征来改变其属性。
+
+“那一颗红色的球”和“一场精彩的球”可以被视为汉语中的一种 Marking and Morphing 现象，具体体现在：
+- 分类词（classifiers）作为 Marking 的工具：
+- 分类词为名词分配语义特征（具体 vs. 抽象、物理性 vs. 动态性），从而改变名词的解释。
+
+形容词选择作为 Morphing 的结果：
+- 根据名词的语义特征，形容词的选择范围会受到限制（如具体物体选择表示颜色的形容词，抽象事件选择动态性质的形容词）。
 
 ## Summary
 A significant area of psycholinguistic research has been dedicated to investigating the cognitive mechanisms underlying the processing of long-distance dependencies.
@@ -112,5 +120,13 @@ Facilitatory interference（促进性干扰）:
 
 - 在特征传播过程中，只有形态句法特征会被传播，而其他类型的特征（如语义特征或语用特征）不会传播。 换句话说，传播仅限于那些对句法结构有直接影响的特征，而不会涉及像意义、情感等非句法特征。
 
+## Marking and morphing (Bock et al., 2001; Eberhard et al., 2005)
+- 句法依赖关系的处理（dependency processing）中，如何通过语义特征（如概念复数和分布性）来影响句法结构的生成和解析。
+## - Marking:
+  - 这是语言处理中的语义阶段，指的是语言生成或解析时，确定某些语义特征（semantic features），如单复数、分布性、数量等。这些特征在概念层面被激活，并将作为后续句法生成的基础。
+## - Morphing:
+ - 这是语言处理中的形式阶段，指的是将语义特征（如数、性等）映射到语言的形态形式（morphological forms）上。
+- 语义特征对句法的调节作用：
+- 句法依赖关系（如主谓一致）不仅是形式上的规则约束，还受到语义特征（如概念复数和分布性）的显著影响。
 ## Method
 
