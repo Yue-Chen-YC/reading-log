@@ -88,4 +88,9 @@ Some CLs are sensitive to the delimitable feature of the noun, no liquid-denotin
   - input of the universal grinder is specified with [+delimitable] only, but the output is the negative values of both features
     -  [ alpha numerable, + delimitable] -> [-numerable, -delimitbale]
 ## - universal packager
+- massive objects become discrete portions and thus can be counted
+  - water and beer can occur with a numeral with [+ numerable] feature and become countable
+  - give me two waters and one beer
+  - I will have another beer/wine/whiskey
+- an effevt of changing a mass noun into a count noun, since massive objects become the individuations based on the glasses or servings thereof (Ojeda, 2005)
 ## - universal sorter 
