@@ -72,8 +72,8 @@ Some CLs are sensitive to the delimitable feature of the noun, no liquid-denotin
 - the antecedent must be a noun that is able to be modified by a delimitive adjective
 - pronominalization of 寥寥无几 is sensitive to the feature delimitability
 
-2 features are also attested in the input and output of three shifts
-- universal grinder
+## 2 features (numerliable and delimitive) are also attested in the input and output of the three shifts
+## - universal grinder
   - effect of universal grinder = put things in and what we get is a massive object
   - changing a count noun to a mass noun
   - blocking the projection of [+delimitable] in a specific context
@@ -84,5 +84,8 @@ Some CLs are sensitive to the delimitable feature of the noun, no liquid-denotin
     - 为什么我感觉页可以说是大的整条鱼？
   - only the delimitive modifiers can bring about the blocking effect
   - 盘子里有鸡蛋 vs 盘子里有大鸡蛋 （这个是只有鸡蛋是一个整体的reading，而不是scrambled egg）
-- universal packager
-- universal sorter 
+  - in chinese, no noun may combine with a numeral directly, so all nouns are [-numerable]
+  - input of the universal grinder is specified with [+delimitable] only, but the output is the negative values of both features
+    -  [ alpha numerable, + delimitable] -> [-numerable, -delimitbale]
+## - universal packager
+## - universal sorter 
