@@ -20,6 +20,10 @@ Zhang, N. N. (2013). Classifier structures in Mandarin Chinese (Vol. 263). Walte
 - CLs in CL languages may play multiple roles
   - numeral expression
   - selectional restractions on the nouns
+
+syntax of classifiers 
+<img width="577" height="146" alt="Screenshot 2025-07-21 at 15 19 31" src="https://github.com/user-attachments/assets/71cdc149-1836-4448-a87d-f1136303d53d" />
+
 - ## Chapter Tow：Classifiers and countability
 - 2 syntagmatic properties of nominals are syntactically significant
   - The ability of a noun to combine with a numeral directly (numerability)
@@ -88,9 +92,46 @@ Some CLs are sensitive to the delimitable feature of the noun, no liquid-denotin
   - input of the universal grinder is specified with [+delimitable] only, but the output is the negative values of both features
     -  [ alpha numerable, + delimitable] -> [-numerable, -delimitbale]
 ## - universal packager
+- no direct effect in chinese
 - massive objects become discrete portions and thus can be counted
   - water and beer can occur with a numeral with [+ numerable] feature and become countable
   - give me two waters and one beer
   - I will have another beer/wine/whiskey
-- an effevt of changing a mass noun into a count noun, since massive objects become the individuations based on the glasses or servings thereof (Ojeda, 2005)
+- an effect of changing a mass noun into a count noun, since massive objects become the individuations based on the glasses or servings thereof (Ojeda, 2005)
+- applies to nouns with [-numerable, -Delimitable] only, but not to [-numerable, +delimitable] words such as furniture and cutlery
+  - [-numerable, -delimitable] -> [+numerable, +delimitable]
+  - package interpretation emerges only when a noun follows a unit word
+    - 一打啤酒 collective cl
+    - 一个啤酒 individual cl
 ## - universal sorter 
+- no direct effect in chinese
+- counting kind is to count abstract units 
+- denoted entity in the output is quantized, but quantization is accomplished in an abstract sense
+  - [-numerable, -delimitable] -> [+numerable, +delimitable]
+
+## Numerability and number
+- Numerability and number are two different grammatical notions
+- a nominal can be [+numerable]] but [-plural]
+- a nominal can be both [-numerable] and [-plural], e.g., luggage and furniture
+
+## The two features in nouns
+- numerability of nouns
+  - no noun in Chinese may combine with a numeral directly
+  - all nouns have the feature [-numerable]
+- CL can be optional after the numeral yi 'one' in Beijing dialect of Mandairn chinese
+  - 吃一馒头
+  - 背一书包学校去
+  - 办一公证
+  - 这一情况/事故/办法
+- must satisfy 2 conditions
+  1. noun must be a count noun
+    - some must be the one occur with cl ge, some can not occur with ge (一 个 油）, some may not follow yi， 一 油/纸
+  2. The tone of the numeral yi undergoes the tone sandhi, if it is followed by a 4th tone syllable (change from 1st tone to second tone), 个一般是t4
+  - there is always a unit word between numeral and a noun in mandarin Chinese
+- idiom and compound: 三角恋，五香粉
+- if a numeral denotes a high round number, a cl can be optional for a non-mass noun
+  - 六百万个妇女撑起半边天
+- abstract or immaterial nouns are generally not modified by shape or size modifiers
+  - feature delimitability can divide chinese nouns (non-count ones) into the mass-type, which has [-delimitable] feature, and the non-mass-type, which has [+delimitbale] feature
+  - previous research show that nouns in cl languages have the characteristics of a mass noun, if mass nouns have [-delimitable], not all nouns in chinese are mass nouns
+  - 这个是什么意思呢？
