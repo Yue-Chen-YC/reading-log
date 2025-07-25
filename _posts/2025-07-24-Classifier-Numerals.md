@@ -1,6 +1,6 @@
 ---
 tags  : [Classifier, Numerals, Nouns]
-category: [Classifier, Numerals]
+category: [Classifier, Numerals, Fieldwork]
 ---
 ## Classifiers can be for numerals or nouns: Two strategies for numeral modification (Little et al., 2022)
 
@@ -10,4 +10,4 @@ Little, C. R., Moroney, M., Royer, J., & Little, C. R. (2022). Classifiers can b
 
 
 ## Backgorund 
-
+This paper compares two familites of theories for numeral classifiers drawing on fieldwork data from two languages, Ch'ol (Mayan, Mexico) and Shan (Kra-Dai, Myanmar).
