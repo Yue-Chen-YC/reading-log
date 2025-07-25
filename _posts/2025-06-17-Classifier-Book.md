@@ -136,3 +136,5 @@ Some CLs are sensitive to the delimitable feature of the noun, no liquid-denotin
   - feature delimitability can divide chinese nouns (non-count ones) into the mass-type, which has [-delimitable] feature, and the non-mass-type, which has [+delimitbale] feature
   - previous research show that nouns in cl languages have the characteristics of a mass noun, if mass nouns have [-delimitable], not all nouns in chinese are mass nouns
   - 这个是什么意思呢？
+
+<img width="644" height="371" alt="Screenshot 2025-07-25 at 16 37 25" src="https://github.com/user-attachments/assets/6280fb29-e078-4132-ad0d-3956814d2bfc" />
