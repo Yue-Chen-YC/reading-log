@@ -13,8 +13,12 @@ Casper, R., Aguirre-Muñoz, Z., Spivey, M., & Bortfeld, H. (2024). Spanish–Eng
 
 ## Summary 
 
+This study investigated how heritage Spanish-English bilinguals integrate their cue hierarchies to process simple sentences in both Spanish and English. 
+
 
 ##  Key Concepts
+The unified competition model
+- Bilinguals show a variety of patterns in sentence interpretation strategies depending on language proficiency 
 
 ## Research Aim
 
