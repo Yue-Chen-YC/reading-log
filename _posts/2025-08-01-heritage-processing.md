@@ -10,6 +10,7 @@ category: [Bilingualism, Heritage, Sentence Processing]
 Casper, R., Aguirre-Muñoz, Z., Spivey, M., & Bortfeld, H. (2024). Spanish–English bilingual heritage speakers' processing of inanimate sentences. Frontiers in Language Sciences, 3, 1370569.
 
 ## My thoughts
+I’m a little worried about their word-order manipulation and their experimental setting. They note that some orders are ungrammatical in English. It also seems they used a sentence-reading paradigm with heritage Spanish–English bilinguals and acknowledged that many participants lacked formal education in Spanish, so the Spanish reading measures might be biased in this case? As they reported most participants were English-dominant; if many were, the Spanish reading tasks might not reflect full comprehension given lower Spanish literacy of such population, which may make sense that this is why they found non-significance for Spanish LexTALE?
 
 ## Summary 
 
