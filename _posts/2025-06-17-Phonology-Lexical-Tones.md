@@ -9,6 +9,10 @@ Zhou C, Veríssimo J. L2 difficulties in the perception of Mandarin tones: Phono
 
 ## My thoughts
 - OCP operates as a language-specific phonotactic constraint and is acquired on the basis of input distribution (Boll-Avetisyan, 2012; Boll-Avetisyan & Kager, 2014).
+  - Avoidance of consecutive phonological elements
+  - Example: *sibilant-sibilant restrictions in English.
+  - OCP’s tone origins (Leben 1978) actually predate its segmental applications, but the data are similar.
+  - Example: Mende lexical tone patterns. Leben noticed that repeated tone spans only occurred on the right edge of a word, not the left edge, and he took this as evidence that the OCP rules lexical tone patterns Mende can have
 - OCP: Identical vs non-identical
 - TMS: accuracies in rising, falling, and level tone pairs.
 - Their use of Lextale is a recognition of form, and does not measure tone perception.
