@@ -1,6 +1,6 @@
 ---
 tags  : [Classifier, Numerals]
-category: [Mandarin, Classifier, Theoretical]
+category: [Mandarin, Classifier, Theoretical, NP]
 ---
 ## Classifiers can be for numerals or nouns: Two strategies for numeral modification (Little et al., 2022)
 
