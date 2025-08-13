@@ -5,19 +5,35 @@ title: Bookshelf 📖
 
 <h1>Posts by Category</h1>
 
-{% assign categories = site.posts | map: "category" | uniq | sort %}
-{% for category in categories %}
-  <h2>{{ category | join: ", " }}</h2>
-  <ul>
-    {% for post in site.posts %}
-      {% if post.category contains category %}
-        <li>
-          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          <p class="date">{{ post.date | date_to_string }}</p>
-          {{ post.excerpt }}
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+{% assign categories = site.categories | sort %}
+{% if categories.size == 0 %}
+
+<p>No posts yet.</p>
+
+{% endif %}
+
+{% for cat in categories %}
+{% assign cat_name = cat[0] %}
+{% assign posts_in_cat = cat[1] | sort: "date" | reverse %}
+
+<h2 id="{{ cat_name | slugify }}">{{ cat_name }}</h2>
+
+<ul>
+
+{% for post in posts_in_cat %}
+
+<li>
+
+<a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+
+<span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+
+{% if post.excerpt %}{{ post.excerpt }}{% endif %}
+
+</li>
+
 {% endfor %}
 
+</ul>
+
+{% endfor %}
