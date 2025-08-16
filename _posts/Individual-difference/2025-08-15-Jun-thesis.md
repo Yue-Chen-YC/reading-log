@@ -54,6 +54,7 @@ object blocking effect
 - XP-adjunction analysis (Huang and Tang, 1991), which is implemented differently but close in spirit.
 - 我的想法：这个的确和agreement很像，所以是自己agree with王老师和小明的3-person feature，所以可以refer到两个antecedent，但是感觉这个没有解释为什么这个可以LD bound? 只是说agreement
 - 这个local relationship我没有看出来在哪里
+- yaqing的解释：ziji本来是base-generate在最下面的NP那里，这时候就是local bound；但是在LF,ziji也可以继续往上move，跑到xiaoming下面的位置的时候，其实也是local bound；但是在LF上的movement我们是看不见的，所以就理解成long-distance bound （如果往上move的话感觉的确可以解释是local bound，理解了）
 
  <img width="551" height="486" alt="Screenshot 2025-08-16 at 10 59 53" src="https://github.com/user-attachments/assets/600bbe83-81dc-418c-8f05-13eaa8e2fd97" />
  
