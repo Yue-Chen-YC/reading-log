@@ -53,6 +53,7 @@ object blocking effect
 -  Head-movement analysis (presented by Cole et al., 1990): ziji moves up the tree to adjoin with the T2 head and percolates its [+3] feature to T2, because T in Chinese is arguably vacuous, after which subject-verb agreement for TP2 can proceed, ziji then moves through all the head positions to the next TP layer to feed subject-verb agreement in TP1.
 - XP-adjunction analysis (Huang and Tang, 1991), which is implemented differently but close in spirit.
 - 我的想法：这个的确和agreement很像，所以是自己agree with王老师和小明的3-person feature，所以可以refer到两个antecedent，但是感觉这个没有解释为什么这个可以LD bound? 只是说agreement
+- 这个local relationship我没有看出来在哪里hmmm
 
  <img width="551" height="486" alt="Screenshot 2025-08-16 at 10 59 53" src="https://github.com/user-attachments/assets/600bbe83-81dc-418c-8f05-13eaa8e2fd97" />
  - blocking effect:
