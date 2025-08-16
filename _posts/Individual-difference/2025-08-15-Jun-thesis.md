@@ -45,12 +45,19 @@ object blocking effect
   - One key linguistic property of ziji is that it can be exempt from Binding Principle A (Chomsky, 1981, 1986) or the locality constraint
   - Binding Principle A: A reflexive must be bound in its local domain (e.g., the smallest XP of the sentence, such as DP, TP, CP that contains a subject and a reflexive)
   - Linguistics noted early on that ziji can be free in the local domain and can be referred to a non-local antecedent (e.g., Huang et al., 1984; Battistella, 1989; Tang, 1989; Yu, 1992; Xu, 1993)
-  - Exempt anaphor: Charnavel (2020) posits that plain (local) anaphors which is bound by overt antecedents, and exempt (long-distance) anaphors which is bound by covert logophoric operators, are simply bound by different antecedents.
+  - Exempt anaphor: Charnavel (2020) posits that plain (local) anaphors which is bound by overt antecedents, and exempt (long-distance) anaphors which covert logophoric operators bind, are simply bound by different antecedents.
   - Earlier syntactic approaches hold that LD ziji is only apparently non-local, but underlyingly locally bound, as ziji moves cyclically at the logical form (LF) to adjoin to a position that has a local relationship to its target antecedent (e.g., Battistella, 1989; Huang & Tang, 1991; Cole et al., 1990, 1993; Cole & Sung, 1994; Cole & Wang, 1996).
 
 <img width="593" height="539" alt="Screenshot 2025-08-16 at 10 52 42" src="https://github.com/user-attachments/assets/2ad78799-71b3-46f1-b05e-2a88eef06f11" />
 - Two analyses, but similar to an agreement-based account
 -  Head-movement analysis (presented by Cole et al., 1990): ziji moves up the tree to adjoin with the T2 head and percolates its [+3] feature to T2, because T in Chinese is arguably vacuous, after which subject-verb agreement for TP2 can proceed, ziji then moves through all the head positions to the next TP layer to feed subject-verb agreement in TP1.
 - XP-adjunction analysis (Huang and Tang, 1991), which is implemented differently but close in spirit.
+- 我的想法：这个的确和agreement很像，所以是自己agree with王老师和小明的3-person feature，所以可以refer到两个antecedent，但是感觉这个没有解释为什么这个可以LD bound? 只是说agreement
 
  <img width="551" height="486" alt="Screenshot 2025-08-16 at 10 59 53" src="https://github.com/user-attachments/assets/600bbe83-81dc-418c-8f05-13eaa8e2fd97" />
+ - blocking effect:
+ - 小明，听说我喜欢自己。vs. 小明，听说你喜欢自己 （自己可以是你，但是不可以是小明, ziji can be referred to you, but not xiaoming）
+   - blocking effect crashed due to subject-verb agreement
+   - ziji is generated with a [+1] person feature or gets its phi-feature from the local 'I' in TP
+   - After it moves to TP1 layer and precolates its [+1] feature to T1, subject-verb agreement crashes because the matrix subject has an incompatible [+3] person feature
+ - 小明告诉我，王教授喜欢自己。vs. 小明告诉你，王教授喜欢自己。（自己可以是你，但是不能是小明, ziji can be referred to you, but not xiaoming）
