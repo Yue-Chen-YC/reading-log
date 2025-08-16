@@ -36,9 +36,21 @@ object blocking effect
 - There are in-depth theorizing about the syntactic and discourse-pragmatic constraints that govern the interpretation of Mandarin reflexives (e.g., Pan, 1997, 1998, 2001; Pollard & Xue, 1998, 2001; Huang & Liu, 2001; Anand, 2006; Cole et al., 2006; Huang et al., 2009; Wang & Pan, 2014, 2015a,b; Giblin, 2016; Charnavel et al., 2017), there are relatively few studies examining these theroatical approach from a testable experimental approach (but see e.g., Schumacher et al., 2011; He & Kaiser, 2016; Han, 2020; Liu, 2020)
 
 ## 2 competing antecedent retrieval models debated in the sentence processing literature 
-- central question: whether syntactic information is prioritized over non-syntactic information (e.g., gender, number, animacy) in early-stage processing
+- Central question: whether syntactic information is prioritized over non-syntactic information (e.g., gender, number, animacy) in early-stage processing
 1. the standard cue-based retrieval model (e.g., Lewis & Vasishth, 2005; Van Dyke & McElree, 2006; Chen et al., 2012; Jäger et al., 2015; Patil et al., 2016)
 2. the structure-based retrieval model (e.g., Sturt, 2003; Xiang et al., 2009; Van Dyke & McElree, 2011; Dillon et al., 2013; Cunnings & Sturt, 2014; Parker & Phillips, 2017)
 
 ## Research Background
+- Long-distance binding of ziji
+  - One key linguistic property of ziji is that it can be exempt from Binding Principle A (Chomsky, 1981, 1986) or the locality constraint
+  - Binding Principle A: A reflexive must be bound in its local domain (e.g., the smallest XP of the sentence, such as DP, TP, CP that contains a subject and a reflexive)
+  - Linguistics noted early on that ziji can be free in the local domain and can be referred to a non-local antecedent (e.g., Huang et al., 1984; Battistella, 1989; Tang, 1989; Yu, 1992; Xu, 1993)
+  - Exempt anaphor: Charnavel (2020) posits that plain (local) anaphors which is bound by overt antecedents, and exempt (long-distance) anaphors which is bound by covert logophoric operators, are simply bound by different antecedents.
+  - Earlier syntactic approaches hold that LD ziji is only apparently non-local, but underlyingly locally bound, as ziji moves cyclically at the logical form (LF) to adjoin to a position that has a local relationship to its target antecedent (e.g., Battistella, 1989; Huang & Tang, 1991; Cole et al., 1990, 1993; Cole & Sung, 1994; Cole & Wang, 1996).
 
+<img width="593" height="539" alt="Screenshot 2025-08-16 at 10 52 42" src="https://github.com/user-attachments/assets/2ad78799-71b3-46f1-b05e-2a88eef06f11" />
+- Two analyses, but similar to an agreement-based account
+-  Head-movement analysis (presented by Cole et al., 1990): ziji moves up the tree to adjoin with the T2 head and percolates its [+3] feature to T2, because T in Chinese is arguably vacuous, after which subject-verb agreement for TP2 can proceed, ziji then moves through all the head positions to the next TP layer to feed subject-verb agreement in TP1.
+- XP-adjunction analysis (Huang and Tang, 1991), which is implemented differently but close in spirit.
+
+ <img width="551" height="486" alt="Screenshot 2025-08-16 at 10 59 53" src="https://github.com/user-attachments/assets/600bbe83-81dc-418c-8f05-13eaa8e2fd97" />
