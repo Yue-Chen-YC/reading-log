@@ -57,9 +57,12 @@ object blocking effect
 
  <img width="551" height="486" alt="Screenshot 2025-08-16 at 10 59 53" src="https://github.com/user-attachments/assets/600bbe83-81dc-418c-8f05-13eaa8e2fd97" />
  
- - blocking effect:
+ - Problems with blocking effect:
  - 小明，听说我喜欢自己。vs. 小明，听说你喜欢自己 （自己可以是你，但是不可以是小明, ziji can be referred to you, but not xiaoming）
    - blocking effect crashed due to subject-verb agreement
    - ziji is generated with a [+1] person feature or gets its phi-feature from the local 'I' in TP
    - After it moves to TP1 layer and precolates its [+1] feature to T1, subject-verb agreement crashes because the matrix subject has an incompatible [+3] person feature
  - 小明告诉我，王教授喜欢自己。vs. 小明告诉你，王教授喜欢自己。（自己可以是你，但是不能是小明, ziji can be referred to you, but not xiaoming）
+ - This approach predicts an object should not block LD binding, because an object blocker is not in a structural (e.g., subject) position to pass its phi-feature to ziji (showing that there should not be an object blocking effect, which is contrary to  小明告诉我，王教授喜欢自己。vs. 小明告诉你，王教授喜欢自己)
+
+ - Recent Appraoch
