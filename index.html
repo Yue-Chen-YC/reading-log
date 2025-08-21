@@ -5,35 +5,103 @@ title: Bookshelf 📖
 
 <h1>Posts by Category</h1>
 
-{% assign categories = site.categories | sort %}
-{% if categories.size == 0 %}
+<!-- Search Bar -->
+<input type="text" id="search-bar" placeholder="Search posts..." style="width: 100%; padding: 10px; margin-bottom: 20px;">
 
-<p>No posts yet.</p>
+<!-- Categories and Posts -->
+<div id="categories-container">
+  {% assign categories = site.categories | sort %}
+  {% if categories.size == 0 %}
+    <p>No posts yet.</p>
+  {% endif %}
 
-{% endif %}
+  {% for cat in categories %}
+    {% assign cat_name = cat[0] %}
+    {% assign posts_in_cat = cat[1] | sort: "date" | reverse %}
 
-{% for cat in categories %}
-{% assign cat_name = cat[0] %}
-{% assign posts_in_cat = cat[1] | sort: "date" | reverse %}
+    <div class="category-section">
+      <h2 class="category-title" data-category="{{ cat_name | slugify }}">{{ cat_name }}</h2>
 
-<h2 id="{{ cat_name | slugify }}">{{ cat_name }}</h2>
+      <ul class="post-list">
+        {% for post in posts_in_cat %}
+          <li class="post-item" data-title="{{ post.title | downcase }}" data-category="{{ cat_name | slugify }}">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+            {% if post.excerpt %}<p>{{ post.excerpt }}</p>{% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
 
-<ul>
+<!-- JavaScript for Search Functionality -->
+<script>
+  document.getElementById('search-bar').addEventListener('input', function() {
+    const searchTerm = this.value.toLowerCase();
+    const posts = document.querySelectorAll('.post-item');
+    const categories = document.querySelectorAll('.category-section');
 
-{% for post in posts_in_cat %}
+    posts.forEach(post => {
+      const title = post.getAttribute('data-title');
+      const category = post.getAttribute('data-category');
 
-<li>
+      if (title.includes(searchTerm) || category.includes(searchTerm)) {
+        post.style.display = 'list-item';
+      } else {
+        post.style.display = 'none';
+      }
+    });
 
-<a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    categories.forEach(category => {
+      const visiblePosts = category.querySelectorAll('.post-item:not([style="display: none;"])').length;
+      category.style.display = visiblePosts > 0 ? 'block' : 'none';
+    });
+  });
+</script>
 
-<span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+<!-- CSS for Styling -->
+<style>
+  #search-bar {
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
 
-{% if post.excerpt %}{{ post.excerpt }}{% endif %}
+  .category-section {
+    margin-bottom: 30px;
+  }
 
-</li>
+  .category-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
 
-{% endfor %}
+  .post-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
 
-</ul>
+  .post-item {
+    margin-bottom: 10px;
+  }
 
-{% endfor %}
+  .post-item a {
+    font-size: 18px;
+    color: #007acc;
+    text-decoration: none;
+  }
+
+  .post-item .date {
+    font-size: 14px;
+    color: #666;
+    margin-left: 10px;
+  }
+
+  .post-item p {
+    font-size: 14px;
+    color: #444;
+    margin-top: 5px;
+  }
+</style>
