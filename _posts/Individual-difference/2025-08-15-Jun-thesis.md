@@ -1,6 +1,6 @@
 ---
 tags  : [Screening, Reflexive]
-category: [reflexive, Jun]
+category: [reflexive, Screening]
 ---
 ## SYNTACTIC AND NON-SYNTACTIC FACTORS IN REFLEXIVE PRONOUN RESOLUTION IN MANDARIN CHINESE (Lyn et al., 2023)
 
