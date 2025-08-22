@@ -1,6 +1,6 @@
 ---
-tags  : [Phonetics]
-category: [Phonetics]
+tags  : [Phonetics, Ling 580]
+category: [Phonetics, Ling 580]
 ---
 ## Articulatory Phonology: A phonology for public language use (Goldstein & Fowler., 2003)  [READ pp. 1-15]
 
