@@ -1,10 +1,10 @@
 # --- 站点基本信息 --------------------------------------------------------
-remote_theme: "mmistakes/so-simple-theme"   # GitHub Pages 支持的远程主题
+remote_theme: "mmistakes/so-simple-theme"
 skin: "/assets/css/skins/default.css"
-locale     : "en-US"
-url        : "https://yue-chen-yc.github.io"  
-title: "Read • Write • Repeat" # 不要尾斜杠
-baseurl    : "/reading-log"                       # 仓库名
+locale: "en-US"
+url: "https://yue-chen-yc.github.io"
+title: "Read • Write • Repeat"
+baseurl: "/reading-log"
 
 # --- 分页 ----------------------------------------------------------------
 plugins:
@@ -15,7 +15,7 @@ plugins:
 
 # --- 构建设置 ------------------------------------------------------------
 permalink: /:categories/:title/
-markdown : kramdown
+markdown: kramdown
 liquid:
   error_mode: strict
 
@@ -26,4 +26,4 @@ defaults:
       type: posts
     values:
       layout: post
-      share : false
+      share: false
