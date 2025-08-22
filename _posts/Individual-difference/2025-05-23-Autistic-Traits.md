@@ -1,6 +1,6 @@
 ---
 tags  : [Screening, Autistic Traits, Individual-difference]
-category: [AQ]
+category: [AQ, Screening]
 ---
 ## Phonetic imitation from an individual-difference perspective: Subjective attitude, personality and “autistic” traits (Yu et al., 2013)
 
