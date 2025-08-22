@@ -39,8 +39,45 @@ https://linguistics.berkeley.edu/acip/course/chapter1/hw/exercise1C.html
 
 <img width="1011" height="715" alt="Screenshot 2025-08-22 at 12 18 11" src="https://github.com/user-attachments/assets/e00bba4f-cd81-4408-9896-a3710308232c" />
 
-g = velar
-d = stop
+Question: (b) manner of articulation = fricative
+Question: (a) place of articulation = alveolar
+Question: (g) place of articulation = velar
+Question: (b) place of articulation = bilabial 错误 = labiodental
+Question: (g) manner of articulation = stop
+Question: (c) manner of articulation = fricative
+Question: (f) manner of articulation = nasal 错误 = approximant
+Question: (d) manner of articulation = fricative 错误 = stop
+Question: (d) place of articulation = bilabial
+Question: (e) manner of articulation = stop 错误 = fricative
+Question: (c) place of articulation = dental
+Question: (f) place of articulation = palatal
+
+Homework Exercise E
+https://linguistics.berkeley.edu/acip/course/chapter1/hw/exercise1E.html
+
+Define the consonant sounds in the middle of each of these words.
+
+etching: place of articulation = post-alveolar
+selling: place of articulation = alveolar
+lodger: manner of articulation = approximant 错误 = affricate
+adder: place of articulation = alveolar
+hopper: voicing = voiceless
+pleasure: voicing = voiced
+lodger: voicing = voiced
+
+
+
+
+Homework Exercise G
+https://linguistics.berkeley.edu/acip/course/chapter1/hw/exercise1G.html
+<img width="972" height="392" alt="Screenshot 2025-08-22 at 15 10 29" src="https://github.com/user-attachments/assets/6d897dfc-7b7c-44b0-b000-177795c951e2" />
+
+Is the stop at (e) voiceless or voiced? = voiceless
+Is (f) a [w] or a vowel? = vowel
+Is (c) a vowel or a nasal? = nasal
+Is (g) a fricative or a lateral? = fricative
+Is (b) a vowel or a nasal? = vowel
+Is (a) a burst or a fricative?  = burst
 
 Identifying Consonant Gestures
 https://sites.google.com/view/identifying-consonant-gestures?usp=sharing
