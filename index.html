@@ -23,28 +23,46 @@ title: Bookshelf 📖
   {% endfor %}
 </div>
 
+<!-- Posts Container -->
+<div id="posts-container">
+  {% for cat in categories %}
+    {% assign cat_name = cat[0] %}
+    {% assign posts_in_cat = cat[1] | sort: "date" | reverse %}
+
+    <div class="category-section" data-category="{{ cat_name | slugify }}" style="display: none;">
+      <h2 class="category-title">{{ cat_name }}</h2>
+      <ul class="post-list">
+        {% for post in posts_in_cat %}
+          <li class="post-item">
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            {% if post.excerpt %}<p>{{ post.excerpt }}</p>{% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
+
 <!-- JavaScript -->
 <script>
-  const searchBar = document.getElementById('search-bar');
   const categoryButtons = document.querySelectorAll('.category-button');
+  const categorySections = document.querySelectorAll('.category-section');
 
-  // Search functionality
-  searchBar.addEventListener('input', function () {
-    const searchTerm = this.value.toLowerCase();
-    categoryButtons.forEach(button => {
-      const category = button.getAttribute('data-category');
-      if (category.includes(searchTerm)) {
-        button.style.display = 'inline-block';
-      } else {
-        button.style.display = 'none';
-      }
-    });
-  });
-
-  // Category button click functionality (optional: can add a redirection or action here)
+  // Category button click functionality
   categoryButtons.forEach(button => {
     button.addEventListener('click', function () {
-      alert(`You clicked on category: ${this.innerText}`);
+      const selectedCategory = this.getAttribute('data-category');
+
+      // Hide all categories
+      categorySections.forEach(section => {
+        section.style.display = 'none';
+      });
+
+      // Show only the selected category
+      const targetSection = document.querySelector(`.category-section[data-category="${selectedCategory}"]`);
+      if (targetSection) {
+        targetSection.style.display = 'block';
+      }
     });
   });
 </script>
@@ -69,5 +87,36 @@ title: Bookshelf 📖
 
   .category-button:hover {
     background-color: #e6e6e6;
+  }
+
+  .category-section {
+    margin-bottom: 30px;
+  }
+
+  .category-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+
+  .post-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  .post-item {
+    margin-bottom: 10px;
+  }
+
+  .post-item a {
+    font-size: 18px;
+    color: #007acc;
+    text-decoration: none;
+  }
+
+  .post-item p {
+    font-size: 14px;
+    color: #444;
+    margin-top: 5px;
   }
 </style>
