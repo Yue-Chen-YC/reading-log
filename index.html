@@ -8,20 +8,29 @@ title: Bookshelf 📖
 <!-- Search Bar -->
 <input type="text" id="search-bar" placeholder="Search posts..." style="width: 100%; padding: 10px; margin-bottom: 20px;">
 
-<!-- Categories and Posts -->
-<div id="categories-container">
+<!-- Categories Container -->
+<div id="categories-list" style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
   {% assign categories = site.categories | sort %}
   {% if categories.size == 0 %}
-    <p>No posts yet.</p>
+    <p>No categories yet.</p>
   {% endif %}
 
   {% for cat in categories %}
     {% assign cat_name = cat[0] %}
+    <button class="category-button" data-category="{{ cat_name | slugify }}" style="padding: 10px; border: 1px solid #ccc; border-radius: 4px; background: #f9f9f9; cursor: pointer;">
+      {{ cat_name }}
+    </button>
+  {% endfor %}
+</div>
+
+<!-- Posts Container -->
+<div id="categories-container">
+  {% for cat in categories %}
+    {% assign cat_name = cat[0] %}
     {% assign posts_in_cat = cat[1] | sort: "date" | reverse %}
 
-    <div class="category-section">
-      <h2 class="category-title" data-category="{{ cat_name | slugify }}">{{ cat_name }}</h2>
-
+    <div class="category-section" data-category="{{ cat_name | slugify }}" style="display: none;">
+      <h2 class="category-title">{{ cat_name }}</h2>
       <ul class="post-list">
         {% for post in posts_in_cat %}
           <li class="post-item" data-title="{{ post.title | downcase }}" data-category="{{ cat_name | slugify }}">
@@ -35,9 +44,14 @@ title: Bookshelf 📖
   {% endfor %}
 </div>
 
-<!-- JavaScript for Search Functionality -->
+<!-- JavaScript -->
 <script>
-  document.getElementById('search-bar').addEventListener('input', function() {
+  const searchBar = document.getElementById('search-bar');
+  const categoryButtons = document.querySelectorAll('.category-button');
+  const categorySections = document.querySelectorAll('.category-section');
+
+  // Search functionality
+  searchBar.addEventListener('input', function () {
     const searchTerm = this.value.toLowerCase();
     const posts = document.querySelectorAll('.post-item');
     const categories = document.querySelectorAll('.category-section');
@@ -58,14 +72,43 @@ title: Bookshelf 📖
       category.style.display = visiblePosts > 0 ? 'block' : 'none';
     });
   });
+
+  // Category button click functionality
+  categoryButtons.forEach(button => {
+    button.addEventListener('click', function () {
+      const selectedCategory = this.getAttribute('data-category');
+
+      categorySections.forEach(section => {
+        if (section.getAttribute('data-category') === selectedCategory) {
+          section.style.display = 'block';
+        } else {
+          section.style.display = 'none';
+        }
+      });
+    });
+  });
 </script>
 
-<!-- CSS for Styling -->
+<!-- CSS -->
 <style>
   #search-bar {
     font-size: 16px;
     border: 1px solid #ccc;
     border-radius: 4px;
+  }
+
+  .category-button {
+    font-size: 16px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .category-button:hover {
+    background-color: #e6e6e6;
   }
 
   .category-section {
