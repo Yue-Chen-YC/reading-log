@@ -80,6 +80,25 @@ Is (b) a vowel or a nasal? = vowel
 Is (a) a burst or a fricative?  = burst
 
 Identifying Consonant Gestures
+
+IPA Charts with MRI : https://sail.usc.edu/span/rtmri_ipa/index.html
+
+<img width="1084" height="784" alt="Screenshot 2025-08-22 at 15 13 44" src="https://github.com/user-attachments/assets/0fed158f-e1eb-480a-8d7f-f25f02c16511" />
+
+differences between consonants and vowels
+- Consonants involve some constriction of airflow
+- vowels do not
+- voicing = what the vocal folds are doing 
+- place of articulation = where the constriction of airflow takes place
+  - bilabial [p] [b] [m] = both lips come together
+  - labiodental [f] [v] = upper teeth and lower lip
+  - interdental [θ] = tongue in between upper and lower teeth
+  - alveolar [t] [d] [s] = upper front teeth and tongue
+  - palatal [ʃ] [j] = hard palate or roof of the mouth
+  - velar [k] = at velum or soft palate
+  - glottal [h] = at glottis or the space between the vocal folds
+- manner of articulation 
+
 https://sites.google.com/view/identifying-consonant-gestures?usp=sharing
 
 1 = b
