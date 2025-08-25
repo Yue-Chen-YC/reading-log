@@ -8,7 +8,10 @@ category: [Screening]
 - fear verb, source verb, preceiver verb (pa, shuo, gaosu)
 - animate noun, collective noun, animate plural noun (John, university, friends) 
   -  ziji maybe more likely to bound withe singular nouns like john, and if we do not add another level of plural nouns, this might be a part of nature for the collective noun, since they maybe plural by nature, and this maybe a confounding varible.
+ 
 
+## Before experiment 
+- ask participants to rate the animacy of the nouns first from 1-10 to create a gradient effect, becuase some collective nouns maybe more animate than other, then select the top rated collective nouns from the survey
 
 ## Hypothesis
 - verb > animacy
