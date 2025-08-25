@@ -1,1 +1,25 @@
+---
+tags  : [Screening]
+category: [Screening]
+---
 
+## My thoughts 
+- 3 x 3 design ?
+- fear verb, source verb, preceiver verb (pa, shuo, gaosu)
+- animate noun, collective noun, animate plural noun (John, university, friends) 
+  -  ziji maybe more likely to bound withe singular nouns like john, and if we do not add another level of plural nouns, this might be a part of nature for the collective noun, since they maybe plural by nature, and this maybe a confounding varible.
+
+
+## Hypothesis
+- verb > animacy
+  - Animacy will not affect the reaction time
+  - fear verb faster than source and faster than preceiver (fear > source > preceiver)
+
+- animacy > verb
+  - verb will not affect the reaction time
+  - animate noun > collective > animate plural noun 
+  
+- animacy x verb interaction (multiple constraint)
+  - Animacy will affect the reaction time and interact with the verb condition
+  - fear + animate noun = fastest > fear + collective > fear + animate plural noun ....
+ 
