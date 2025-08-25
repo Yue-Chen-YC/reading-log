@@ -66,4 +66,4 @@ object blocking effect
  - 小明告诉我，王教授喜欢自己。vs. 小明告诉你，王教授喜欢自己。（自己可以是你，但是不能是小明, ziji can be referred to you, but not xiaoming）
  - This approach predicts an object should not block LD binding, because an object blocker is not in a structural (e.g., subject) position to pass its phi-feature to ziji (showing that there should not be an object blocking effect, which is contrary to  小明告诉我，王教授喜欢自己。vs. 小明告诉你，王教授喜欢自己)
 
- - Recent Approach
+ - **Recent Approach**
