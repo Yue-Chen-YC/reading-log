@@ -11,7 +11,7 @@ category: [Screening]
  
 
 ## Before experiment 
-- ask participants to rate the animacy of the nouns first from 1-10 to create a gradient effect, becuase some collective nouns maybe more animate than other, then select the top rated collective nouns from the survey
+- ask participants to rate the animacy AND plurality of the nouns first from 1-10 to create a gradient effect, becuase some collective nouns maybe more animate than others, then select the top-rated collective nouns from the survey
 
 ## Hypothesis
 - verb > animacy
