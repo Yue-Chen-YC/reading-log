@@ -17,6 +17,10 @@ Yu, A. C., Abrego-Collier, C., & Sonderegger, M. (2013). Phonetic imitation from
 ## Summary 
 Phonetic imitation: a process by which the production patterns of an individual become more similar on some phonetic or acoustic dimension to those of their interlocutor. This study looks at the phenomenon of phonetic imitation using a within-subject design embedded in an individual-differences framework (e.g., autism-spectrum, working memory, personality). Subjective perspectives on phonetic imitation, the participants assigned to one of the four experimental conditions: sexual orientation of the narrator, outcome of the story. They found that the extent of phonetic imitation by an individual is significantly modulated by the story outcome, by participant's subjeciyive attitude toward the model talker, and participant's personality trait of openness and the autistic-like trait associated with attention switching. 
 
+## Research Questions 
+1. How does VOT shift as a result of hearing the narrative across subjects after controlling for other factors
+2. What factors affect how much a subject's VOT shifts?
+
 ##  Key Concepts
 - phonetic imitation = convergence
 - phonetic divergence = reverse process
@@ -42,17 +46,60 @@ Phonetic imitation: a process by which the production patterns of an individual 
   - cogntive theorties of autism hold that individuals with autism have difficulties intergrtating perceptual information with higher order language processing (weak central coherence), neurotypical individuals with higher AQ, even if they might be better at detecting fine phonetic details, they also might have difficulties utilizing the perceived fine phonetic differences in their own speech production to affect discernible phonetic imitation. 
 
 ## Background
-- speakers will not imitate if the novel phonetic feature endangers phonetic constrasts (unaspirated vs. aspirated)
-- socio-biological factors also play a role: Men imitate more than women in the map task, but lea=ss than women in the shadowing task. Language distances: greater imitation is found in same-dialet conversational pairs than in either different-dialect pairs or different L1 pairs. 
+- speakers will not imitate if the novel phonetic feature endangers phonetic contrasts (unaspirated vs. aspirated)
+- socio-biological factors also play a role: Men imitate more than women in the map task, but less than women in the shadowing task. Language distances: greater imitation is found in same-dialect conversational pairs than in either different-dialect pairs or different L1 pairs. 
 
 ## Method
 - Procedure
   - Production task with 3 blocks
-    - baseline production block: prodcue 72 /p t k/ initial target workds in random order in the sentence of "say _ again"
+    - baseline production block: produce 72 /p t k/ initial target words in random order in the sentence "say _ again"
     - words selected from CELEX2, evenly distributed by token frequency quartile and by initial consonant
-    - exposure block: subjects heard a constructed first-person narrative in which the words were embeded, and the VOT of the target words in the story were extended by 100%
-    - post-exposure test block, the paritipants need to produce the same word list again in the different ranomdized order
+    - exposure block: subjects heard a constructed first-person narrative in which the words were embedded, and the VOT of the target words in the story was extended by 100%
+    - <img width="553" height="701" alt="Screenshot 2025-08-25 at 12 27 21" src="https://github.com/user-attachments/assets/eea81804-a4dd-4870-83fc-8892e22f0c66" />
+    - post-exposure test block, the participants need to produce the same word list again in a different randomized order
+    - include questions about the subject's age, second language knwoledge assessment of own sexual orientation
+      - 1 = exclusively heterosexual to 7 = exclusively homosexual
+    - feelings towards the talker
+      - 1 = very positive to 7 = very negative
+    - likelihood of behaving in the same way in a similar situation (yes or no)
+    - whether anything unusual was noticed in the talker's speech 
+  - neurocognitive and personality measures
+    - ASQ
+      - 50 items (10 questions assessing 5 subscales: social skills, communication, attention to detail, attention-switching, imagination)
+      - Likert scale 1-4 (original ASQ)
+      - a total ASQ score was calculated by summing all the scores for each of the items
+      - maximum score of 200, minimum score of 50
+      - subscales: maximum score of 40, minimum score of 10
+      - higher scores = traits associated with Autism
+        - lower social skills, difficulty in attention switching/stronger focus of attention, higher attention to detail and patterns, lower ability to communicate, lower imagination
+    - Big Five Inventory: five broad personality dimensions
+      - Openness, Conscientiousness, Extraversion, Agreeableness, Neuroticism
+      - calculated as questions associated with the dimension
+      - High AQ individuals are associated with high Neuroticism, low Extraversion, low Agreeableness, or low Conscientiousness
+    - Automated Reading Span Task (RSPAN)
+      - working memory capacity
+      - sentences on computer (the ranger told the hiker to look out for snakes)
+      - ask to indicate whether the sentence makes sense or not (True or False)
+      - Then a letter was presented for participants to hold in memory
+        - 75 letters in 15 sets
+      - score calculated with the partial-credit unit scoring method
+      - order is randomized 
+
+## Participants 
+- 93 subjects, 2 subjects were lost, 1 subject failed to follow the procedure, 6 participants did not finish the RSPAN or one of the questionnaires (AQ or Big Five)
+- remaining 70 words by 84 subjects
+- AQ score range 102 - 110.5, SD = 71-150 or 78-155
 
 ## Analyses
+- Mixed-effect regression models are robust to unbalanced designs
+- 2 Models
+  1. The effects of properties of all factors on VOT, except whether the subject has heard the narrative yet or not
+     - residuals of the model are VOT values that are normalized for speaking rate, properties of the host word, idiosyncratic by-subject and by-word differences
+     - calculate the normalized VOT shift: the difference between the subject's pre-narrative and post-narrative normalized VOT values for the word
+  2. The effects of subject-level variables (RSPAN, attitude towards the narrator) on the amount of shift
+     - the value of its intercept = how much overall VOT shift occurs
+     - Values of its coefficients describe how different subject-level variables affect the amount of the shift
+
+<img width="889" height="601" alt="Screenshot 2025-08-25 at 12 53 53" src="https://github.com/user-attachments/assets/65916630-c6b0-4ffd-9f76-dc33598e54d5" />
 
 ## Results
