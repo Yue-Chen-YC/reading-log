@@ -76,3 +76,26 @@ The Listener’s Task
 - voices involve the musale movement
 - geastures = are simple constractions, gestures for different sounds, may have different auditory outcomes
 - gestures can have goals that is not articulatory
+
+Two functions of sound production need to be distinguished:
+• Sound generation = causing air to vibrate at audible frequencies
+• Sound shaping
+decive generate the sound = sound source 
+
+sound sources in speech 
+- vibration of the larynx
+- turbulent noise of air rushing through narrow slit
+- pop when built-up pressure is released
+
+Sound shaping
+- lenthgh of the tube = specturm of the sound that the tube vibrates
+- • Filter functions in speech: constrictions of different organs produce effective lengths of vocal tract tubes
+- affect the tones and sources in different ways
+- constructions are present in the acosutics signal in changes over time
+
+Gestures of functionally distinct constricting organs can distinguish words
+- Larynx (generates sound source)
+  - voiceless consonants, in order to viabrate, the air pulls the vocal folders apart
+  - voiced = vocal folds need to be narrowed  
+- Velum (shapes sound generated at larynx)
+- oral constrictors: (shapes sound generated at larynx)
