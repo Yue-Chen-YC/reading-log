@@ -91,3 +91,5 @@ object blocking effect
 2. Is there a syntactic component to the blocking effect?
 
 ## 1.2.1.1 Logophoricity, empathy, and ziji
+- differences between empathy and logophoricity
+  - logophoricity = certain pronominal forms refer to individuals whose speech, thoughts or general states of mind are reported (Clements, 1975: 141)
