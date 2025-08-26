@@ -67,3 +67,23 @@ object blocking effect
  - This approach predicts an object should not block LD binding, because an object blocker is not in a structural (e.g., subject) position to pass its phi-feature to ziji (showing that there should not be an object blocking effect, which is contrary to  小明告诉我，王教授喜欢自己。vs. 小明告诉你，王教授喜欢自己)
 
  - **Recent Approach**
+   - Giblin (2016) offers a syntactic solution to the object blocking effect
+   - **Discourse-Based Account**: Before Giblin (2016), researchers proposed that discourse factors, such as perspective or point of view, play a critical role in LD binding of ziji and the blocking effect
+     - if we assume ziji is perspective-sensitive = non-local antecedents can bind ziji when they are perspective centers or domains of point of view
+       - a perspective center can be:
+         - attitude holder = a person whose perspective or point of view the sentence expresses
+         - empathy locus = a person whose perspective the speaker takes
+         - 我的想法：attitude holder算是 source / perciver吗？empathy locus可以是 empathy verb 怕吗？
+      - Mandarin LD ziji is empathic = one must put themselves in the shoes of the perspective holder = the antecedent of ziji needs to be an empathy locus
+      - empathy = speaker's identification, with varying degrees, with a person who participates in the event that he describes in a sentence (Kuno & Kaburaki, 1977: 628)
+    - Empathy locus and its interaction with the blocking effect
+      - I or you encodes the speaker's own perspective, then it means that LD ziji with the sentence-internal Xiaoming and sentence-external I or you includes a clash of perspectives
+      - 我的想法：为什么 小明是sentence- internal，i or you 是sentence-external？
+      - jun的解释：Speech Act Empathy Hierarchy (Kuno, 1987: 212)
+        - The speaker cannot empathize with someone else more than with himself (speaker只能对自己更empathize比起其他人)
+        - 这个approach好的地方是可以解释object blocking effect and subject blocking effect
+      - overall: perspective-taking can infleunce the reflexive resolution of ziji
+
+## 2 research questions 
+1. Does the discourse role (e.g., source vs. perceiver) of the perspective center impact LD binding of ziji?
+2. Is there a syntactic component to the blocking effect?
