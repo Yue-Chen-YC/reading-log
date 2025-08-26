@@ -13,6 +13,14 @@ category: [Screening]
 ## Before experiment 
 - ask participants to rate the animacy AND plurality of the nouns first from 1-10 to create a gradient effect, becuase some collective nouns maybe more animate than others, then select the top-rated collective nouns from the survey
 
+## experiment 
+- reaction time
+  - Self-paced reading
+- individual difference 
+  - ASQ
+  - Big five personabilities?
+  - working memeory? eventhough they did not find a significance, but based on their research seems to be relevant?
+
 ## Hypothesis
 - verb > animacy
   - Animacy will not affect the reaction time
