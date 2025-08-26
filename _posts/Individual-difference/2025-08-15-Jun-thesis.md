@@ -60,11 +60,13 @@ object blocking effect
  
  - **Problems with the blocking effect**:
  - 小明，听说我喜欢自己。vs. 小明，听说你喜欢自己 （自己可以是你，但是不可以是小明, ziji can be referred to you, but not xiaoming）
-   - blocking effect crashed due to subject-verb agreement
+   - blocking effect crashed due to subject-verb agreement = okay with subject blocking effect
    - ziji is generated with a [+1] person feature or gets its phi-feature from the local 'I' in TP
    - After it moves to TP1 layer and precolates its [+1] feature to T1, subject-verb agreement crashes because the matrix subject has an incompatible [+3] person feature
  - 小明告诉我，王教授喜欢自己。vs. 小明告诉你，王教授喜欢自己。（自己可以是你，但是不能是小明, ziji can be referred to you, but not xiaoming）
- - This approach predicts an object should not block LD binding, because an object blocker is not in a structural (e.g., subject) position to pass its phi-feature to ziji (showing that there should not be an object blocking effect, which is contrary to  小明告诉我，王教授喜欢自己。vs. 小明告诉你，王教授喜欢自己)
+ - problem with the object blocking effect
+ - This approach predicts an object should not block LD binding, because an object blocker is not in a structural (e.g., subject) position to pass its phi-feature to ziji (showing that there should not be an object blocking effect, which is contrary to  小明告诉我，王教授喜欢自己。vs. 小明告诉你，王教授喜欢自己) = fail to take account of object blocking effect, ziji 不能是我，但是可以是你，这个account assume 自己有 +1 feature，所以可以bound to我，因为我也是 +1 feature
+<img width="652" height="551" alt="Screenshot 2025-08-26 at 09 18 35" src="https://github.com/user-attachments/assets/5359a16b-1823-466d-aeee-1aa3ed7fc4cb" />
 
  - **Recent Approach**
    - Giblin (2016) offers a syntactic solution to the object blocking effect
@@ -87,3 +89,5 @@ object blocking effect
 ## 2 research questions 
 1. Does the discourse role (e.g., source vs. perceiver) of the perspective center impact LD binding of ziji?
 2. Is there a syntactic component to the blocking effect?
+
+## 1.2.1.1 Logophoricity, empathy, and ziji
