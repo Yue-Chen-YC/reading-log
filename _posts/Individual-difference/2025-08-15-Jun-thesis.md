@@ -84,7 +84,7 @@ object blocking effect
       - jun的解释：Speech Act Empathy Hierarchy (Kuno, 1987: 212)
         - The speaker cannot empathize with someone else more than with himself (speaker只能对自己更empathize比起其他人)
         - 这个approach好的地方是可以解释object blocking effect and subject blocking effect
-      - overall: perspective-taking can infleunce the reflexive resolution of ziji
+      - overall: perspective-taking can influence the reflexive resolution of ziji
 
 ## 2 research questions 
 1. Does the discourse role (e.g., source vs. perceiver) of the perspective center impact LD binding of ziji?
@@ -93,3 +93,7 @@ object blocking effect
 ## 1.2.1.1 Logophoricity, empathy, and ziji
 - differences between empathy and logophoricity
   - logophoricity = certain pronominal forms refer to individuals whose speech, thoughts or general states of mind are reported (Clements, 1975: 141)
+  - logophor = in some African languages, there is a logophoric pronoun that must uniquely refer to an attitude holder
+- Logophoric hierarchy (Culy, 1994; 1062)
+  - Speech > thought > knowledge > direct perception
+    - typological observation that logophoric roles 
