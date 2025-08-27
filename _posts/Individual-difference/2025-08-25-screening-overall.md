@@ -6,6 +6,7 @@ category: [Screening]
 ## My thoughts 
 
 ## Competition between Empathy, Logophor, and animacy hierarchies 
+Based on previous research from theoretical work, which shows that ziji is both empathic and logophoric, and from experimental work, Liu (2020) found that ziji is logophoric, while Xue & Runner (submitted) found that ziji is not logophoric. 
 1. Empathy hierarchy (Hu, 2019)
 - Empathy verb > non-empathy verb (source and perciver verbs)
 2. Logophority hierarchy
@@ -14,9 +15,9 @@ category: [Screening]
 3. Animacy Hierarchy (Hu, 2019)
 - Empathy hierarchy > Animacy hierarchy
 - Animate + human noun > animate noun > inanimate noun
-  - then it shows that if empathy hierarchy is true, then faster reaction time for empathy verb compared to source and preceiver verb
-  - If animacy hierarchy is true, then animate + human noun faster reaction time for animate -human nouns
-  - then we expect fastest reaction time to the empathy and animate +human noun condition
+  - then it shows that if the empathy hierarchy is true, then faster reaction time for the empathy verb compared to the source and preceiver verb
+  - If the animacy hierarchy is true, then animate + human nouns have faster reaction times than animate -human nouns
+  - then we expect the fastest reaction time to the empathy and animate +human noun condition
     - lowest reaction time to the perceiver and inanimate noun condition
 
 ## My thoughts 
