@@ -8,8 +8,12 @@ category: [reflexive, Screening]
 Lyn, Jyn., (2023). SYNTACTIC AND NON-SYNTACTIC FACTORS IN REFLEXIVE PRONOUN RESOLUTION IN MANDARIN CHINESE 
 ## My thoughts
 
+## My thoughts
+The differences between logophoric (perspective-reporting), which might be the source, and empathic, which is perspective-taking, which might be the fear verb?
+         - 我的想法：attitude holder算是 source / perciver吗？empathy locus可以是 empathy verb 怕吗？
+         - ziji can be both empathic and logophoric 
 ## Summary 
-The main goal of this dissertation is to use experiments to examine how syntactic factors (e.g., locality, syntactic position) and non-syntactic factors (e.g., verb semantics, perspectival information) impact reflexive resolution in Chinese and how these factors influence real-time processing, to re-examine conventional linguistic judgment and more importantly, to provide new data contributing to the advances of linguistic theories. 
+The main goal of this dissertation is to use experiments to examine how syntactic factors (e.g., locality, syntactic position) and non-syntactic factors (e.g., verb semantics, perspectival information) impact reflexive resolution in Chinese and how these factors influence real-time processing, to re-examine conventional linguistic judgment, and more importantly, to provide new data contributing to the advances of linguistic theories. 
 
 ## The antecedent choice judgment results: 
 - ziji and ta-ziji are subject to syntactic, semantic, and discourse-level constraints, but the extent to which discourse topic prominence impacts the interpretation of ziji and ta-ziji differs.
@@ -75,7 +79,6 @@ object blocking effect
        - a perspective center can be:
          - attitude holder = a person whose perspective or point of view the sentence expresses
          - empathy locus = a person whose perspective the speaker takes
-         - 我的想法：attitude holder算是 source / perciver吗？empathy locus可以是 empathy verb 怕吗？
       - Mandarin LD ziji is empathic = one must put themselves in the shoes of the perspective holder = the antecedent of ziji needs to be an empathy locus
       - empathy = speaker's identification, with varying degrees, with a person who participates in the event that he describes in a sentence (Kuno & Kaburaki, 1977: 628)
     - Empathy locus and its interaction with the blocking effect
@@ -93,7 +96,52 @@ object blocking effect
 ## 1.2.1.1 Logophoricity, empathy, and ziji
 - differences between empathy and logophoricity
   - logophoricity = certain pronominal forms refer to individuals whose speech, thoughts or general states of mind are reported (Clements, 1975: 141)
+  - logophoricity is used in linguistics to refr to grammatical reflexes of perspectives 
   - logophor = in some African languages, there is a logophoric pronoun that must uniquely refer to an attitude holder
 - Logophoric hierarchy (Culy, 1994; 1062)
   - Speech > thought > knowledge > direct perception
-    - typological observation that logophoric roles 
+- Logophoric hierarchy (Huang & Liu, 2001)
+  - Source > Self > Pivot
+    - typological observation that logophoric roles are higher on the scale
+      - speech initiators or sources = more likely to be the antecedents of logophoric pronouns
+      - Recipients of direct perception or perceivers are less likely to be the antecedents of logophoric pronouns
+    - Each sentence or the point-of-view domain carries only one perspective center
+      - each sentence can only have one referent = empathy locus = takes the perspective of it
+    -  perspective is not the core component of logophoricity
+- In Japanese, ziben ('self') can have a logophoric/non-empathic use, where the external perspective center boku (I) can co-exist with the non-local antecedent whose perspective the sentence expresses
+  - Oshima (2007) argued that there are three different uses of ziben
+    - local zibun
+    - logophoric zibun
+    - empathic zibun
+- One can take his/her own perspective while expressing the perspective of the non-local antecedent
+- Logophoricity is related to the notion of perspective-reporting while empathy is related to the notion of perspective-taking
+  
+<img width="774" height="326" alt="Screenshot 2025-08-27 at 10 49 17" src="https://github.com/user-attachments/assets/d6597c6a-43b0-4719-835f-775dddacc8aa" />
+
+  - Ziji is necessarily empathic and only under certain circumstances displays properties of logophoric reflexives
+    - Wang and Pan 2015a,b found that
+      - ziji fits the criteria for empathic reflexives
+        - the blocking effect
+        - subject-orientation = only subjects can bind ziji
+        - debatable = ziji must have the de se reading   
+    - de se reading = the antecedent must be aware of the event described by the sentence
+      - if speaker empathizes with Zhangsan, the same sentence can also be true = this suggests that ziji can be a pure empathic anaphor
+      - ziji is necessarily empathic but sometimes show logophoric properties = de se reading in the intensional context with a presence of a speech or belief verb with source subject 
+
+## experimentally testing the logophoric properties of ziji
+1. Liu (2020)
+   - compares the acceptability of LD binding by a source referent to LD binding by a topical referent
+     - 根据李四说，这件事伤害了自己 = according to lisi, this event hurt self
+       - lisi is the source 
+     - 说到李四，这件事伤害了自己 = speaking of lisi, this event hurt self
+       - lisi is the topic
+    - using ye/no acceptability judgment task, liu found that average proportion of acceptability for source is close to the ceiling, but the average proprotion of acceptability for topic is less than 50%
+    - suggest that source is more likely to license LD binding than a topic referent
+    - alternative explantion = lisi is in the object position as a topic but in subject position as a source
+    - giving the subject-oritentation property of ziji, this is expected
+    - inanimate of the local antecendent = the event = effect of animacy? or the logophoricity effect still remains if the local antecedent is animate
+2. Xu and Runner (submitted)
+   - antecedent forced-choice
+   - When local antecedent is animate, the logophoric role (believer vs. perceiver) of the matrix subject does not infleunce perferences for LD binding of ziji
+   - they only tested the believer and the perciever, which is not the two ends of the logopphoric scale
+   - this can be expalined about their null result, becuase it does not disprove the hypithesis that ziji can show loogophroic properities 
