@@ -6,6 +6,9 @@ category: [Screening]
 ## My thoughts 
 
 ## Competition between Empathy, Logophor, and animacy hierarchies 
+
+Overall: Syntactic constraint (binding) vs. Non-syntax constraints (empathy, ,logophoricity and animacy)
+
 Based on previous research from theoretical work, which shows that ziji is both empathic and logophoric, and from experimental work, Liu (2020) found that ziji is logophoric, while Xue & Runner (submitted) found that ziji is not logophoric. 
 1. Empathy hierarchy (Hu, 2019)
 - Empathy verb > non-empathy verb (source and perciver verbs)
