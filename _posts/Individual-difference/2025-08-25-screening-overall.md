@@ -4,7 +4,23 @@ category: [Screening]
 ---
 
 ## My thoughts 
-- 3 x 3 design ?
+
+## Competition between Empathy, Logophor, and animacy hierarchies 
+1. Empathy hierarchy (Hu, 2019)
+- Empathy verb > non-empathy verb (source and perciver verbs)
+2. Logophority hierarchy
+- Source > Self > Pivot (Huang & Liu, 2001)
+- Speech > thought > knowledge > direct perception (Culy, 1994; 1062)
+3. Animacy Hierarchy (Hu, 2019)
+- Empathy hierarchy > Animacy hierarchy
+- Animate + human noun > animate noun > inanimate noun
+  - then it shows that if empathy hierarchy is true, then faster reaction time for empathy verb compared to source and preceiver verb
+  - If animacy hierarchy is true, then animate + human noun faster reaction time for animate -human nouns
+  - then we expect fastest reaction time to the empathy and animate +human noun condition
+    - lowest reaction time to the perceiver and inanimate noun condition
+
+## My thoughts 
+- 3 x 3 design?
 - fear verb, source verb, preceiver verb (pa, shuo, gaosu)
 - animate noun, collective noun, animate plural noun (John, university, friends) 
   -  ziji maybe more likely to bound withe singular nouns like john, and if we do not add another level of plural nouns, this might be a part of nature for the collective noun, since they maybe plural by nature, and this maybe a confounding varible.
