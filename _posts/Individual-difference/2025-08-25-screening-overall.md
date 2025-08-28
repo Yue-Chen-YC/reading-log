@@ -27,7 +27,7 @@ Based on previous research from theoretical work, which shows that ziji is both 
 - Speech > thought > knowledge > direct perception (Culy, 1994; 1062)
   
 **3. Animacy Hierarchy (Hu, 2019)**
-- Empathy hierarchy > Animacy hierarchy
+- Empathy hierarchy (empathy verb, source verb, preceiver verb) > Animacy hierarchy (animate + human, animate nouns, inanimate nouns)
 - Animate + human noun > animate noun > inanimate noun
   - then it shows that if the empathy hierarchy is true, then faster reaction time for the empathy verb compared to the source and preceiver verb
   - If the animacy hierarchy is true, then animate + human nouns have faster reaction times than animate -human nouns
@@ -38,11 +38,11 @@ Based on previous research from theoretical work, which shows that ziji is both 
 - 3 x 3 design?
 - fear verb, source verb, preceiver verb (pa, shuo, gaosu)
 - animate noun, collective noun, animate plural noun (John, university, friends) 
-  -  ziji maybe more likely to bound withe singular nouns like john, and if we do not add another level of plural nouns, this might be a part of nature for the collective noun, since they maybe plural by nature, and this maybe a confounding varible.
+  -  ziji may be more likely to bound withe singular nouns like john, and if we do not add another level of plural nouns, this might be a part of nature for the collective noun, since they maybe plural by nature, and this maybe a confounding varible.
  
 
 ## Before experiment 
-- ask participants to rate the animacy AND plurality of the nouns first from 1-10 to create a gradient effect, becuase some collective nouns maybe more animate than others, then select the top-rated collective nouns from the survey
+- ask participants to rate the animacy AND plurality of the nouns first from 1-10 to create a gradient effect, becuase some collective nouns may be more animate than others, then select the top-rated collective nouns from the survey
 
 ## experiment 
 - reaction time
@@ -50,7 +50,7 @@ Based on previous research from theoretical work, which shows that ziji is both 
 - individual difference 
   - ASQ
   - Big five personabilities?
-  - working memeory? eventhough they did not find a significance, but based on their research seems to be relevant?
+  - working memory? Even though they did not find a significance, but based on their research seems to be relevant?
 
 ## Hypothesis
 - verb > animacy
