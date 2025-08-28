@@ -120,28 +120,52 @@ object blocking effect
 
   - Ziji is necessarily empathic and only under certain circumstances displays properties of logophoric reflexives
     - Wang and Pan 2015a,b found that
-      - ziji fits the criteria for empathic reflexives
+      - Ziji fits the criteria for empathic reflexives
         - the blocking effect
         - subject-orientation = only subjects can bind ziji
         - debatable = ziji must have the de se reading   
     - de se reading = the antecedent must be aware of the event described by the sentence
-      - if speaker empathizes with Zhangsan, the same sentence can also be true = this suggests that ziji can be a pure empathic anaphor
-      - ziji is necessarily empathic but sometimes show logophoric properties = de se reading in the intensional context with a presence of a speech or belief verb with source subject 
+      - If the speaker empathizes with Zhangsan, the same sentence can also be true = this suggests that ziji can be a pure empathic anaphor
+      - ziji is necessarily empathic but sometimes shows logophoric properties = de se reading in the intensional context with a presence of a speech or belief verb with source subject 
 
 ## experimentally testing the logophoric properties of ziji
 1. Liu (2020)
    - compares the acceptability of LD binding by a source referent to LD binding by a topical referent
      - 根据李四说，这件事伤害了自己 = according to lisi, this event hurt self
-       - lisi is the source 
+       - Lisi is the source 
      - 说到李四，这件事伤害了自己 = speaking of lisi, this event hurt self
-       - lisi is the topic
-    - using ye/no acceptability judgment task, liu found that average proportion of acceptability for source is close to the ceiling, but the average proprotion of acceptability for topic is less than 50%
-    - suggest that source is more likely to license LD binding than a topic referent
-    - alternative explantion = lisi is in the object position as a topic but in subject position as a source
-    - giving the subject-oritentation property of ziji, this is expected
-    - inanimate of the local antecendent = the event = effect of animacy? or the logophoricity effect still remains if the local antecedent is animate
+       - Lisi is the topic
+    - using ye/no acceptability judgment task, Liu found that average proportion of acceptability for source is close to the ceiling, but the average proportion of acceptability for topic is less than 50%
+    - suggest that the source is more likely to license LD binding than a topic referent
+    - alternative explanation = lisi is in the object position as a topic but in the subject position as a source
+    - giving the subject orientation property of ziji, this is expected
+    - inanimate of the local antecedent = the event = effect of animacy? Or the logophoricity effect still remains if the local antecedent is animate
 2. Xu and Runner (submitted)
    - antecedent forced-choice
-   - When local antecedent is animate, the logophoric role (believer vs. perceiver) of the matrix subject does not infleunce perferences for LD binding of ziji
-   - they only tested the believer and the perciever, which is not the two ends of the logopphoric scale
-   - this can be expalined about their null result, becuase it does not disprove the hypithesis that ziji can show loogophroic properities 
+   - When the local antecedent is animate, the logophoric role (believer vs. perceiver) of the matrix subject does not influence preferences for LD binding of ziji
+   - They only tested the believer and the perceiver, which are not the two ends of the logophoric scale
+   - This can be explained by their null result, because it does not disprove the hypothesis that ziji can show logophoric properties
+
+ <img width="797" height="182" alt="Screenshot 2025-08-27 at 14 27 22" src="https://github.com/user-attachments/assets/158d33f1-1926-4e45-8800-4b9014a31ccb" />
+
+## 1.2.1.2 Syntactic prominence and the blocking effect
+- An agreement-based syntactic approach can account for the subject blocking effect, but not the object blocking
+- A discourse-based approach can account for both the subject and object blocking effect
+- It seems the discrouse-based account is empirically superior to the syntactic approach
+
+## Other two Approachs that can account for subject and object blocking effect
+1. Contiguous-agreement account (Giblin, 2016)
+   
+<img width="736" height="444" alt="Screenshot 2025-08-28 at 09 31 49" src="https://github.com/user-attachments/assets/dcfc8f12-158c-4174-a7bd-80d0475b3e7c" />
+
+- For LD binding, the C head at the left edge of the matrix clause is merged with an unvalued feature (uparticipant)
+- Upon merge, this feature probes downward for a [+participant] feature in the spec-TP
+         - If the contiguous matrix subject carries a [+participant] feature, the C head will be valued
+         - All the T heads (matrix and local T head) will then inherit this [+participant] carried by the matrix subject (by the local T head in a T-V-reflexive chain)
+         - one condition must be satisfied
+         - there must be no intervening DP with a [+ participant] feature
+         - If the contiguous DP/spec-TP is [-participant], the derivation crashes due to the violation of the contiguous Agree constraint.
+- 我没有太明白这个approach是什么意思？
+- 什么是contiguous Agree constraint？
+
+2. Unified account (Cole et al., 2006; Charnavel et al., 2017)
