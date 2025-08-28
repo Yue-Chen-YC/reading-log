@@ -101,19 +101,19 @@ differences between consonants and vowels
 
 https://sites.google.com/view/identifying-consonant-gestures?usp=sharing
 
-1 = b
-2 = g
-3 = ŋ
-4 = t
-5 = p
-6 = l
-7 = f
-8 = l
+1 = b 对的
+2 = j  ？
+3 = ŋ 对的
+4 = t 对的
+5 = p 对的
+6 = θ
+7 = m ？
+8 = l 对的
 9 = h
-10 = m
-11 = r
+10 = m 
+11 = r 对的
 12 = s
-13 = ʃ 
-14 = n
-15 = θ
-16 = w
+13 = ʃ  对的
+14 = n 对的
+15 = θ ？
+16 = w 对的
