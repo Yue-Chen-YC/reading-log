@@ -14,6 +14,7 @@ category: [Screening]
 Empathic = Empathy locus, a person whose perspective the speaker takes (perspective-taking, empathize with the ld antecedent)
 Logophoric = speech initiators or sources = reporting/perceiving
 
+differences: 
 Logophoricity is related to the notion of perspective-reporting, while empathy is related to the notion of perspective-taking
 
 Based on previous research from theoretical work, which shows that ziji is both empathic and logophoric, and from experimental work, Liu (2020) found that ziji is logophoric, while Xue & Runner (submitted) found that ziji is not logophoric. 
