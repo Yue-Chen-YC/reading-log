@@ -12,6 +12,7 @@ Lyn, Jyn., (2023). SYNTACTIC AND NON-SYNTACTIC FACTORS IN REFLEXIVE PRONOUN RESO
 The differences between logophoric (perspective-reporting), which might be the source, and empathic, which is perspective-taking, which might be the fear verb?
          - 我的想法：attitude holder算是 source / perciver吗？empathy locus可以是 empathy verb 怕吗？
          - ziji can be both empathic and logophoric 
+
 ## Summary 
 The main goal of this dissertation is to use experiments to examine how syntactic factors (e.g., locality, syntactic position) and non-syntactic factors (e.g., verb semantics, perspectival information) impact reflexive resolution in Chinese and how these factors influence real-time processing, to re-examine conventional linguistic judgment, and more importantly, to provide new data contributing to the advances of linguistic theories. 
 
@@ -31,8 +32,8 @@ A reflexive pronoun depends on another referent in the discourse for interpretat
 - morphologically simple/bare reflexive ziji ('self')
 - morphonologically complex/compound ta-ziji ('s/he-self')
 
-object blocking effect
-- when a 1st person pronoun (sentence-external perspective center) in the object position cannot block long-distance binding by a discourse topic empathy locus (sentence-internal perspective center)
+**object blocking effect**
+- When a 1st person pronoun (sentence-external perspective center) in the object position cannot block long-distance binding by a discourse topic empathy locus (sentence-internal perspective center)
 
 ## Introduction
 - The referent that the reflexive anchors to is called the antecedent; the process of disambiguating the reflexive is called reflexive resolution
@@ -41,21 +42,22 @@ object blocking effect
 
 ## 2 competing antecedent retrieval models debated in the sentence processing literature 
 - **Central question**: whether syntactic information is prioritized over non-syntactic information (e.g., gender, number, animacy) in early-stage processing
-1. the standard cue-based retrieval model (e.g., Lewis & Vasishth, 2005; Van Dyke & McElree, 2006; Chen et al., 2012; Jäger et al., 2015; Patil et al., 2016)
-2. the structure-based retrieval model (e.g., Sturt, 2003; Xiang et al., 2009; Van Dyke & McElree, 2011; Dillon et al., 2013; Cunnings & Sturt, 2014; Parker & Phillips, 2017)
+**1. the standard cue-based retrieval model** (e.g., Lewis & Vasishth, 2005; Van Dyke & McElree, 2006; Chen et al., 2012; Jäger et al., 2015; Patil et al., 2016)
+**2. the structure-based retrieval model** (e.g., Sturt, 2003; Xiang et al., 2009; Van Dyke & McElree, 2011; Dillon et al., 2013; Cunnings & Sturt, 2014; Parker & Phillips, 2017)
 
 ## Research Background
 - **Long-distance binding of ziji**
   - One key linguistic property of ziji is that it can be exempt from Binding Principle A (Chomsky, 1981, 1986) or the locality constraint
-  - Binding Principle A: A reflexive must be bound in its local domain (e.g., the smallest XP of the sentence, such as DP, TP, CP that contains a subject and a reflexive)
+  - **Binding Principle A**: A reflexive must be bound in its local domain (e.g., the smallest XP of the sentence, such as DP, TP, CP that contains a subject and a reflexive)
   - Linguistics noted early on that ziji can be free in the local domain and can be referred to a non-local antecedent (e.g., Huang et al., 1984; Battistella, 1989; Tang, 1989; Yu, 1992; Xu, 1993)
-  - Exempt anaphor: Charnavel (2020) posits that plain (local) anaphors which is bound by overt antecedents, and exempt (long-distance) anaphors which covert logophoric operators bind, are simply bound by different antecedents.
+  - **Exempt anaphor**: Charnavel (2020) posits that plain (local) anaphors which is bound by overt antecedents, and exempt (long-distance) anaphors which covert logophoric operators bind, are simply bound by different antecedents.
   - Earlier syntactic approaches hold that LD ziji is only apparently non-local, but underlyingly locally bound, as ziji moves cyclically at the logical form (LF) to adjoin to a position that has a local relationship to its target antecedent (e.g., Battistella, 1989; Huang & Tang, 1991; Cole et al., 1990, 1993; Cole & Sung, 1994; Cole & Wang, 1996).
 
 <img width="593" height="539" alt="Screenshot 2025-08-16 at 10 52 42" src="https://github.com/user-attachments/assets/2ad78799-71b3-46f1-b05e-2a88eef06f11" />
+
 - **Two analyses, but similar to an agreement-based account**
 -  **Head-movement analysis** (presented by Cole et al., 1990): ziji moves up the tree to adjoin with the T2 head and percolates its [+3] feature to T2, because T in Chinese is arguably vacuous, after which subject-verb agreement for TP2 can proceed, ziji then moves through all the head positions to the next TP layer to feed subject-verb agreement in TP1.
-- XP-adjunction analysis (Huang and Tang, 1991), which is implemented differently but close in spirit.
+- **XP-adjunction analysis** (Huang and Tang, 1991), which is implemented differently but close in spirit.
 - 我的想法：这个的确和agreement很像，所以是自己agree with王老师和小明的3-person feature，所以可以refer到两个antecedent，但是感觉这个没有解释为什么这个可以LD bound? 只是说agreement
 - 这个local relationship我没有看出来在哪里
 - yaqing的解释：ziji本来是base-generate在最下面的NP那里，这时候就是local bound；但是在LF,ziji也可以继续往上move，跑到xiaoming下面的位置的时候，其实也是local bound；但是在LF上的movement我们是看不见的，所以就理解成long-distance bound （如果往上move的话感觉的确可以解释是local bound，理解了）
@@ -80,14 +82,14 @@ object blocking effect
          - attitude holder = a person whose perspective or point of view the sentence expresses
          - empathy locus = a person whose perspective the speaker takes
       - Mandarin LD ziji is empathic = one must put themselves in the shoes of the perspective holder = the antecedent of ziji needs to be an empathy locus
-      - empathy = speaker's identification, with varying degrees, with a person who participates in the event that he describes in a sentence (Kuno & Kaburaki, 1977: 628)
+      - **empathy** = speaker's identification, with varying degrees, with a person who participates in the event that he describes in a sentence (Kuno & Kaburaki, 1977: 628)
     - Empathy locus and its interaction with the blocking effect
       - I or you encodes the speaker's own perspective, then it means that LD ziji with the sentence-internal Xiaoming and sentence-external I or you includes a clash of perspectives
       - 我的想法：为什么 小明是sentence- internal，i or you 是sentence-external？
       - jun的解释：Speech Act Empathy Hierarchy (Kuno, 1987: 212)
         - The speaker cannot empathize with someone else more than with himself (speaker只能对自己更empathize比起其他人)
         - 这个approach好的地方是可以解释object blocking effect and subject blocking effect
-      - overall: perspective-taking can influence the reflexive resolution of ziji
+      - **overall**: perspective-taking can influence the reflexive resolution of ziji
 
 ## 2 research questions 
 1. Does the discourse role (e.g., source vs. perceiver) of the perspective center impact LD binding of ziji?
@@ -95,10 +97,10 @@ object blocking effect
 
 ## 1.2.1.1 Logophoricity, empathy, and ziji
 - differences between empathy and logophoricity
-  - logophoricity = certain pronominal forms refer to individuals whose speech, thoughts or general states of mind are reported (Clements, 1975: 141)
+  - **logophoricity** = certain pronominal forms refer to individuals whose speech, thoughts or general states of mind are reported (Clements, 1975: 141)
   - logophoricity is used in linguistics to refr to grammatical reflexes of perspectives 
   - logophor = in some African languages, there is a logophoric pronoun that must uniquely refer to an attitude holder
-- Logophoric hierarchy (Culy, 1994; 1062)
+- **Logophoric hierarchy** (Culy, 1994; 1062)
   - Speech > thought > knowledge > direct perception
 - Logophoric hierarchy (Huang & Liu, 2001)
   - Source > Self > Pivot
