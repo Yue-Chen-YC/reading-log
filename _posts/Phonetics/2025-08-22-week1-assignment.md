@@ -102,17 +102,17 @@ differences between consonants and vowels
 https://sites.google.com/view/identifying-consonant-gestures?usp=sharing
 
 1 = b 
-2 = j  ？
-3 = ŋ 
+2 = ŋ
+3 = j?
 4 = t 
 5 = p 
-6 = θ
+6 = n ?
 7 = m ？
-8 = l 
+8 = s ?
 9 = h
-10 = m 
+10 = m ?
 11 = r 
-12 = s ？
+12 = θ
 13 = ʃ 
 14 = n 
 15 = θ ？
