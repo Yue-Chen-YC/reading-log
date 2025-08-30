@@ -101,6 +101,24 @@ differences between consonants and vowels
 
 https://sites.google.com/view/identifying-consonant-gestures?usp=sharing
 
+p = bilabial voiceless plosive
+t = alveolar voiceless plosive
+k = velar voiceless plosive
+b = bilabial voiced plosive
+m = bilabial voiced nasal
+n = alveolar voiced nasal
+ŋ = velar voiced nasal
+f = labiodental voiceless fricative
+θ = dental voiceless fricative
+s = alveolar voiceless fricative
+ʃ = postalveolar voiceless fricative
+w = labial–velar Voiced approximant
+l = post-avelaor voiced lateral approximant
+r = alveolar retrofix
+j = palatal voiced approximant
+h = glottal voiceless fricative
+
+
 1 = b 
 2 = ŋ
 3 = j?
