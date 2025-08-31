@@ -4,6 +4,7 @@ category: [Screening]
 ---
 
 ## My thoughts 
+- things to talk about with elsi: jun's thesis, meeting with jun and my ideas, maybe consider to submit to camp? the cogsci x gorilla grant if i want to recuit adult speakers for classifer project
 
 ## Competition between Empathy, Logophor, and animacy hierarchies 
 
