@@ -119,19 +119,19 @@ j = palatal voiced approximant
 h = glottal voiceless fricative
 
 
-1 = b 
-2 = ŋ
-3 = w
-4 = t 
-5 = p 
-6 = l 
-7 = m ?
-8 = s ?
-9 = h
-10 = m ?
-11 = r 
-12 = θ
-13 = ʃ ?
-14 = n 
-15 = s ？
-16 = w ?
+1 = b = bilabial voiced (vocal fold narrow, lips come together, velar?velum not lower)
+2 = k (voiceless velar)
+3 = ŋ (voiced velar, nasal?)
+4 = t (alveolar, voiceless, not nasal) = wrong = ʃ
+5 = f (voiceless, labio?)
+6 = l (voiced, similar to retroflex? aveloar)
+7 = p (bilabiol, voiceless)
+8 = ʃ (voiceless, aveolar, not sure if it's s or ʃ) = wrong = t
+9 = h (voiceless, nothing moved, similar to h mri)
+10 = m (bilabial, nasal)
+11 = r (retroflex)
+12 = θ (labialdental? voiceless)
+13 = j (palatal, voiced)
+14 = n (nasal, alveolar)
+15 = s (alveolar, voiceless, compared to 8, very similar?  not sure if it's s or ʃ)
+16 = w (labial–velar, voiced)
