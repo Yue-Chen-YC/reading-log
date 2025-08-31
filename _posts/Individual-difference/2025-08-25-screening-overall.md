@@ -4,7 +4,16 @@ category: [Screening]
 ---
 
 ## My thoughts 
-- things to talk about with elsi: jun's thesis, meeting with jun and my ideas, maybe consider to submit to camp? the cogsci x gorilla grant if i want to recuit adult speakers for classifer project
+- things to talk about with elsi:
+  - jun's thesis, meeting with jun and my ideas
+  - Maybe consider to submit to camp?
+  - the cogsci x gorilla grant if i want to recuit adult speakers for classifer project (also erjing's acquistion data)
+
+## current research questions 
+1. How syntactic factors (e.g., locality, syntactic position) and non-syntactic factors (e.g., verb semantics, perspective, discourse) impact reflexive resolution in Chinese?
+   - Does the empathy locus and the discourse role (e.g., source vs. perceiver) of the perspective center impact LD binding of ziji?
+   - Does the locality impact LD binding of ziji?
+3. Do individual differences play a role in LD binding of ziji?
 
 ## Competition between Empathy, Logophor, and animacy hierarchies 
 
@@ -34,6 +43,13 @@ Based on previous research from theoretical work, which shows that ziji is both 
   - If the animacy hierarchy is true, then animate + human nouns have faster reaction times than animate -human nouns
   - then we expect the fastest reaction time to the empathy and animate +human noun condition
     - lowest reaction time to the perceiver and inanimate noun condition
+   
+
+## Central question from jun: 
+- whether syntactic information is prioritized over non-syntactic information (e.g., gender, number, animacy) in early-stage processing
+  1. the standard cue-based retrieval model (e.g., Lewis & Vasishth, 2005; Van Dyke & McElree, 2006; Chen et al., 2012; Jäger et al., 2015; Patil et al., 2016)
+  2. the structure-based retrieval model (e.g., Sturt, 2003; Xiang et al., 2009; Van Dyke & McElree, 2011; Dillon et al., 2013; Cunnings & Sturt, 2014; Parker & Phillips, 2017)
+
 
 ## My thoughts 
 - 3 x 3 design?
