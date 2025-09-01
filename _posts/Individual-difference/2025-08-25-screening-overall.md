@@ -49,7 +49,7 @@ Based on previous research from theoretical work, which shows that ziji is both 
 **Animacy hierarchy within inanimate nouns (Ji & Liang, 2018)**
 - collective nouns > spatial and temporal nouns > concrete nouns > psychological nouns > other abstract nouns
 
-**4. Empathy x Animacy Hierarchy (Hu, 2019)**
+**4. Empathy x Logophority x Animacy Hierarchy (Hu, 2019)**
 - Empathy hierarchy (empathy verb, source verb, preceiver verb) > Animacy hierarchy (animate + human, animate nouns, inanimate nouns)
 - Animate + human noun > animate noun > inanimate noun
   - then it shows that if the empathy hierarchy is true, then faster reaction time for the empathy verb compared to the source and preceiver verb
@@ -57,10 +57,10 @@ Based on previous research from theoretical work, which shows that ziji is both 
   - then we expect the fastest reaction time to the empathy and animate +human noun condition
     - lowest reaction time to the perceiver and inanimate noun condition
 
-**Another Empathy Hierarchy and its interaction with Animacy Langacker (1991:306--307)**
-- **Empathy hierarchy**: speaker > hearer > human > animal > physical object > abstract entity
+**Another Empathy Hierarchy and its interaction with Animacy (Langacker, 1991:306--307)**
+- **Empathy hierarchy**: speaker (source?) > hearer (preciever?) > human (names) > animal > physical object > abstract entity (collective nouns)
 
-## Central question from jun: 
+## Central question from Jun: 
 - whether syntactic information is prioritized over non-syntactic information (e.g., gender, number, animacy) in early-stage processing
   1. the standard cue-based retrieval model (e.g., Lewis & Vasishth, 2005; Van Dyke & McElree, 2006; Chen et al., 2012; Jäger et al., 2015; Patil et al., 2016)
   2. the structure-based retrieval model (e.g., Sturt, 2003; Xiang et al., 2009; Van Dyke & McElree, 2011; Dillon et al., 2013; Cunnings & Sturt, 2014; Parker & Phillips, 2017)
