@@ -77,8 +77,8 @@ Based on previous research from theoretical work, which shows that ziji is both 
   -  ziji may be more likely to bound with singular nouns like john, and if we do not add another level of plural nouns, this might be a part of nature for the collective noun, since they may be plural by nature, and this may be a confounding variable.
  
 
-## Before experiment 
-- ask participants to rate the animacy AND plurality of the nouns first from 1-10 to create a gradient effect, becuase some collective nouns may be more animate than others, then select the top-rated collective nouns from the survey
+## Before experiment (norming?)
+- ask participants to rate the animacy AND plurality of the nouns first from 1-10 to create a gradient effect, because some collective nouns may be more animate than others, then select the top-rated collective nouns from the survey
 
 ## experiment 
 - reaction time
