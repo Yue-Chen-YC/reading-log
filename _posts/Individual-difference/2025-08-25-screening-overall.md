@@ -52,13 +52,17 @@ Based on previous research from theoretical work, which shows that ziji is both 
 **4. Empathy x Logophority x Animacy Hierarchy (Hu, 2019)**
 - Empathy hierarchy (empathy verb, source verb, preceiver verb) > Animacy hierarchy (animate + human, animate nouns, inanimate nouns)
 - Animate + human noun > animate noun > inanimate noun
-  - then it shows that if the empathy hierarchy is true, then faster reaction time for the empathy verb compared to the source and preceiver verb
+
+## Hypothesis
+  - Then it shows that if the empathy x logophority x animacy hierarchy (Hu, 2019) is true, then a faster reaction time for the empathy verb compared to the source and preceiver verb
   - If the animacy hierarchy is true, then animate + human nouns have faster reaction times than animate -human nouns
-  - then we expect the fastest reaction time to the empathy and animate +human noun condition
+  - then we expect: 
+    - fastest reaction time to the empathy and animate +human noun condition
     - lowest reaction time to the perceiver and inanimate noun condition
 
 **Another Empathy Hierarchy and its interaction with Animacy (Langacker, 1991:306--307)**
 - **Empathy hierarchy**: speaker (source?) > hearer (preciever?) > human (names) > animal > physical object > abstract entity (collective nouns)
+  - tends to empathize with the speaker, then the hearer, then the human, then the collective nouns
 
 ## Central question from Jun: 
 - whether syntactic information is prioritized over non-syntactic information (e.g., gender, number, animacy) in early-stage processing
@@ -70,7 +74,7 @@ Based on previous research from theoretical work, which shows that ziji is both 
 - 3 x 3 design?
 - fear verb, source verb, preceiver verb (pa, shuo, gaosu)
 - animate noun, collective noun, animate plural noun (John, university, friends) 
-  -  ziji may be more likely to bound withe singular nouns like john, and if we do not add another level of plural nouns, this might be a part of nature for the collective noun, since they maybe plural by nature, and this maybe a confounding varible.
+  -  ziji may be more likely to bound with singular nouns like john, and if we do not add another level of plural nouns, this might be a part of nature for the collective noun, since they may be plural by nature, and this may be a confounding variable.
  
 
 ## Before experiment 
@@ -82,18 +86,5 @@ Based on previous research from theoretical work, which shows that ziji is both 
 - individual difference 
   - ASQ
   - Big five personabilities?
-  - working memory? Even though they did not find a significance, but based on their research seems to be relevant?
+  - working memory? Even though they did not find a significance, but based on their research seems to be relevant.
 
-## Hypothesis
-- verb > animacy
-  - Animacy will not affect the reaction time
-  - fear verb faster than source and faster than preceiver (fear > source > preceiver)
-
-- animacy > verb
-  - verb will not affect the reaction time
-  - animate noun > collective > animate plural noun 
-  
-- animacy x verb interaction (multiple constraint)
-  - Animacy will affect the reaction time and interact with the verb condition
-  - fear + animate noun = fastest > fear + collective > fear + animate plural noun ....
- 
