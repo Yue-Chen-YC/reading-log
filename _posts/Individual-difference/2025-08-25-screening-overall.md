@@ -72,7 +72,7 @@ Based on previous research from theoretical work, which shows that ziji is both 
 
 ## My thoughts 
 - 3 x 3 design?
-- fear verb, source verb, preceiver verb (pa, shuo, gaosu)
+- empathy verb (fear, haipa), source verb (tell, gaosu), preceiver verb (hear, tingshuo)
 - animate noun, collective noun, animate plural noun (John, university, friends) 
   -  ziji may be more likely to bound with singular nouns like john, and if we do not add another level of plural nouns, this might be a part of nature for the collective noun, since they may be plural by nature, and this may be a confounding variable.
  
