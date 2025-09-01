@@ -6,10 +6,10 @@ category: [Screening]
 ## Current Title: Animacy, Empathy Locus, and Logophoricity: An Individual-Differences Analysis of Reflexive Pronoun Resolution in Mandarin Chinese
 
 ## My thoughts 
-- things to talk about with elsi:
-  - jun's thesis, meeting with jun and my ideas
-  - Maybe consider to submit to camp?
-  - the cogsci x gorilla grant if i want to recuit adult speakers for classifer project (also erjing's acquistion data)
+- things to talk about with Elsi:
+  - Jun's thesis, meeting with Jun, and my ideas
+  - Maybe consider submitting to camp?
+  - the cogsci x gorilla grant if I want to recruit adult speakers for classifier project (also Erjing's acquisition data)
 
 ## current research questions 
 1. How syntactic factors (e.g., locality, syntactic position) and non-syntactic factors (e.g., verb semantics, perspective, discourse) impact reflexive resolution in Chinese?
@@ -23,29 +23,42 @@ category: [Screening]
 
 <img width="762" height="180" alt="Screenshot 2025-08-28 at 10 39 09" src="https://github.com/user-attachments/assets/4c15528b-4751-4ee9-ba4f-3a6d0baf4ef4" />
 
-Empathic = Empathy locus, a person whose perspective the speaker takes (perspective-taking, empathize with the ld antecedent)
+**Empathic** = Empathy locus, a person whose perspective the speaker takes (perspective-taking, empathizes with the LD antecedent)
 
-Logophoric = speech initiators or sources = reporting/perceiving
+**Logophoric** = speech initiators or sources = reporting/perceiving
 
-differences: Logophoricity is related to the notion of perspective-reporting, while empathy is related to the notion of perspective-taking
+**differences**: Logophoricity is related to the notion of **perspective-reporting**, while empathy is related to the notion of **perspective-taking**
 
 Based on previous research from theoretical work, which shows that ziji is both empathic and logophoric, and from experimental work, Liu (2020) found that ziji is logophoric, while Xue & Runner (submitted) found that ziji is not logophoric. 
 
 **1. Empathy hierarchy (Hu, 2019)**
 - Empathy verb > non-empathy verb (source and perciver verbs)
+
+**Speech Act Empathy Hierarchy** (Kuno, 1987: 212)
+- The speaker cannot empathize with someone else more than with himself (speaker只能对自己更empathize比起其他人)
+
   
 **2. Logophority hierarchy**
 - Source > Self > Pivot (Huang & Liu, 2001)
 - Speech > thought > knowledge > direct perception (Culy, 1994; 1062)
-  
-**3. Animacy Hierarchy (Hu, 2019)**
+- overall: source > preceiver
+
+**3. Animacy hierarchy in grammar and typology (Ji & Liang, 2018)**
+<img width="718" height="98" alt="Screenshot 2025-09-01 at 09 29 02" src="https://github.com/user-attachments/assets/6fc905e3-1778-495e-b21a-04d265e9bd60" />
+
+**Animacy hierarchy within inanimate nouns (Ji & Liang, 2018)**
+- collective nouns > spatial and temporal nouns > concrete nouns > psychological nouns > other abstract nouns
+
+**4. Empathy x Animacy Hierarchy (Hu, 2019)**
 - Empathy hierarchy (empathy verb, source verb, preceiver verb) > Animacy hierarchy (animate + human, animate nouns, inanimate nouns)
 - Animate + human noun > animate noun > inanimate noun
   - then it shows that if the empathy hierarchy is true, then faster reaction time for the empathy verb compared to the source and preceiver verb
   - If the animacy hierarchy is true, then animate + human nouns have faster reaction times than animate -human nouns
   - then we expect the fastest reaction time to the empathy and animate +human noun condition
     - lowest reaction time to the perceiver and inanimate noun condition
-   
+
+**Another Empathy Hierarchy and its interaction with Animacy Langacker (1991:306--307)**
+- **Empathy hierarchy**: speaker > hearer > human > animal > physical object > abstract entity
 
 ## Central question from jun: 
 - whether syntactic information is prioritized over non-syntactic information (e.g., gender, number, animacy) in early-stage processing
