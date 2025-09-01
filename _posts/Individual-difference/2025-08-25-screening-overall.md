@@ -9,7 +9,7 @@ category: [Screening]
 - things to talk about with Elsi:
   - Jun's thesis, meeting with Jun, and my ideas
   - Maybe consider submitting to camp?
-  - the cogsci x gorilla grant if I want to recruit adult speakers for classifier project (also Erjing's acquisition data)
+  - the cogsci x gorilla grant if I want to recruit adult speakers for the classifier project (also Erjing's acquisition data)
 
 ## current research questions 
 1. How syntactic factors (e.g., locality, syntactic position) and non-syntactic factors (e.g., verb semantics, perspective, discourse) impact reflexive resolution in Chinese?
@@ -83,8 +83,15 @@ Based on previous research from theoretical work, which shows that ziji is both 
 ## experiment 
 - reaction time
   - Self-paced reading
-- individual difference 
-  - ASQ
-  - Big five personabilities?
-  - working memory? Even though they did not find a significance, but based on their research seems to be relevant.
+- individual difference in 2 domains
+  1. Cognitive processing style
+    - ASQ
+    - Big five personabilities?
+  2. working memory capacity
+  - working memory? Even though they did not find a significance, but based on their research seems to be relevant, also it has an effect on language processing.
+
+- **working memory capacity (WMC)**: the ability to control attention and deal with irrelevant information, and not simply the amount of information that can reside in working memory. = individual differences are not due to some limited amount of activation available to the working memory system, but to an individual's ability to ignore irrelevant information (on the basis of a specific relevant goal) through the control of attention
+- Individuals with lower WMC are less able to utilize executive control to ignore irrelevant or interfering information and maintain focus on a specific goal. whereas the opposite is true for high-WMC individuals.
+- Working memory has an effect on speech processing.
+  - Increasing WM load has been shown to slow down spoken word recognition, high working memory individuals show less perceptual compensation for coarticulation and are less biased toward hearing legal sound sequences than low working memory individuals.
 
