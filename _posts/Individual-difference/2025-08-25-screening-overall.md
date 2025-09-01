@@ -3,6 +3,8 @@ tags  : [Screening]
 category: [Screening]
 ---
 
+## Current Title: Animacy, Empathy Locus, and Logophoricity: An Individual-Differences Analysis of Reflexive Pronoun Resolution in Mandarin Chinese
+
 ## My thoughts 
 - things to talk about with elsi:
   - jun's thesis, meeting with jun and my ideas
@@ -13,7 +15,7 @@ category: [Screening]
 1. How syntactic factors (e.g., locality, syntactic position) and non-syntactic factors (e.g., verb semantics, perspective, discourse) impact reflexive resolution in Chinese?
    - Does the empathy locus and the discourse role (e.g., source vs. perceiver) of the perspective center impact LD binding of ziji?
    - Does the locality impact LD binding of ziji?
-3. Do individual differences play a role in LD binding of ziji?
+2. Do individual differences play a role in LD binding of ziji?
 
 ## Competition between Empathy, Logophor, and animacy hierarchies 
 
