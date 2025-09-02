@@ -137,3 +137,7 @@ h = glottal voiceless fricative
 16 = w (labial–velar, voiced)
 
 ask about 4, 15 and 8, all seems very similar to me
+- alveolar stop is hitting the edger of the root, alveolar rige is back
+- fricatives = tongue is making a major part of the palatal so it's narrower
+- θ is dental, is right behind the lower teeth
+- s, tip of the tongue is hitting the tongue 
