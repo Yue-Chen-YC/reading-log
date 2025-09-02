@@ -10,6 +10,8 @@ category: [Screening]
   - Jun's thesis, meeting with Jun, and my ideas
   - Maybe consider submitting to camp?
   - the cogsci x gorilla grant if I want to recruit adult speakers for the classifier project (also Erjing's acquisition data)
+  - Maybe do a SPR first, then a comprehension question for a second study = separate participants with fillers and attention checkers
+    - afraid that participants will focus on the reflective resolution 
 
 ## current research questions 
 1. How syntactic factors (e.g., locality) and non-syntactic factors (e.g., animacy, logophoricity, empathy) impact reflexive resolution in Chinese?
