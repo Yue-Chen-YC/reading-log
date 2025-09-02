@@ -12,7 +12,7 @@ category: [Screening]
   - the cogsci x gorilla grant if I want to recruit adult speakers for the classifier project (also Erjing's acquisition data)
 
 ## current research questions 
-1. How syntactic factors (e.g., locality, syntactic position) and non-syntactic factors (e.g., verb semantics, perspective, discourse) impact reflexive resolution in Chinese?
+1. How syntactic factors (e.g., locality) and non-syntactic factors (e.g., animacy, logophoricity, empathy) impact reflexive resolution in Chinese?
    - Does the empathy locus and the discourse role (e.g., source vs. perceiver) of the perspective center impact LD binding of ziji?
    - Does the locality impact LD binding of ziji?
 2. Do individual differences play a role in LD binding of ziji?
