@@ -60,7 +60,7 @@ First-order system as model of phonological units
 Multiple Dynamical Systems
 - Possibilities
   - Sequence of two goal values
-  - Overlap in time of two system
+  - Overlap in time of two systems
 
 Gesture activation time 
 - when they are no longer active and govern the behavior of a system only within some fixed epoch of time
@@ -82,3 +82,6 @@ Overlap of two systems in time
      - In English the stop is still the stop, the blending does not affect the degree but the constriction
      - Blending is a property of these gestures in English
      - phobological property of some language
+
+TaDA: Task Dynamic model of phonetic structure
+
