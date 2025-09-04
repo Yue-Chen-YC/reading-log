@@ -196,6 +196,7 @@ two types of discourse-level prominence
 
 
 1.2.2.2 Logophoricity and ta-ziji
+- source-advantage is the logophoricity effect 
 - a reflexive is taken to be logophoric if the relfexive is sensitive to the logophoric hierarchy
          -  consider the two ends of the logophoric hierarchy, which are source and perceiver
 - early empirical work shown that LD reflexives include the complex reflexives which show sensitivity to logophoricity as in English himself/herself  (Kaiser et al., 2009; Sloggett, 2017)
@@ -203,3 +204,5 @@ two types of discourse-level prominence
 -  visual world eye-tracking study shown that the source preference emerges quite early, during the 200-600 ms time window
 -  Kaiser et al., 2009 provided crucial experimental evidence using both offline and online data that English reflexives in the picture NP constructions can be logophoric
 -  In contrast to Kaiser et al.’s (2009) finding that the logophoricity effect can appear across animate local antecedents, Sloggett found that with argument-position reflexives, the source advantage is only present when the local antecedent is an impossible antecedent for the reflexive, in particular, when the local antecedent mismatches with the reflexive in two phi-features (number, gender) or when the local antecedent is inanimate.
+-   Korean caki-casin is sensitive to the source role of the non-local topically marked antecedent.
+-   LD binding by source is more acceptable than LD binding by self which is in turn more acceptable than LD binding by pivot.
