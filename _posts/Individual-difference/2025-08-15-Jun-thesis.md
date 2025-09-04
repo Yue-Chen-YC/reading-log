@@ -171,3 +171,25 @@ A reflexive pronoun depends on another referent in the discourse for interpretat
 - 什么是contiguous Agree constraint？
 
 2. Unified account (Cole et al., 2006; Charnavel et al., 2017)
+- Explain the object blocking effect using syntactic means
+- does not predict any difference in the size of the subject vs object blocking effects
+- blocking effect has both a syntactic componenet and a discourse componenet
+- zhangsan yiwei lisi hui ba ni dai hui ziji de jia        
+         -  due to conflict of prespectives between empahty locus zhangsan and the speaker's perspective
+           - you is uttered from the perspective of the speaker
+<img width="801" height="154" alt="Screenshot 2025-09-04 at 11 42 13" src="https://github.com/user-attachments/assets/3438b56e-acad-48c6-83f9-f93b1569a86c" />
+
+- It seems that different researchers have different tuitions about subject and object blocking effects, which suggest inter-speaker variaiton
+
+two types of discourse-level prominence 
+- discrouse topic prominence
+- logophoricity
+
+“animacy blocking effect” by Pan (1998)
+- if the local antecedent is both animate and loacal, then only the local binding is allowed
+- animacy prominence is a type of semantic prominence
+
+-  animacy blocking effect is reminiscent of the “intervention effect” observed for “standard American English” (Pollard & Sag, 1992): when a local human c-commander is available, the reflexive must be locally bound
+-  The real antecedent philip is a perspective center (empathy locus) in the domain of point of view
+
+-  43% of the time, Korean native speakers accepted LD binding of caki-casin, becuase caki-casin just like ta-ziji is considered as a typical local refleixves, but when there is a discourse prominent antecedent present in the sentence, they will also be LD bound as well. 
