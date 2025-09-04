@@ -192,4 +192,14 @@ two types of discourse-level prominence
 -  animacy blocking effect is reminiscent of the “intervention effect” observed for “standard American English” (Pollard & Sag, 1992): when a local human c-commander is available, the reflexive must be locally bound
 -  The real antecedent philip is a perspective center (empathy locus) in the domain of point of view
 
--  43% of the time, Korean native speakers accepted LD binding of caki-casin, becuase caki-casin just like ta-ziji is considered as a typical local refleixves, but when there is a discourse prominent antecedent present in the sentence, they will also be LD bound as well. 
+-  43% of the time, Korean native speakers accepted LD binding of caki-casin, becuase caki-casin just like ta-ziji is considered as a typical local refleixves, but when there is a discourse prominent antecedent present in the sentence, they will also be LD bound as well.
+
+
+1.2.2.2 Logophoricity and ta-ziji
+- a reflexive is taken to be logophoric if the relfexive is sensitive to the logophoric hierarchy
+         -  consider the two ends of the logophoric hierarchy, which are source and perceiver
+- early empirical work shown that LD reflexives include the complex reflexives which show sensitivity to logophoricity as in English himself/herself  (Kaiser et al., 2009; Sloggett, 2017)
+-  A source matrix subject is preferred as the binder compared to a perceiver subject
+-  visual world eye-tracking study shown that the source preference emerges quite early, during the 200-600 ms time window
+-  Kaiser et al., 2009 provided crucial experimental evidence using both offline and online data that English reflexives in the picture NP constructions can be logophoric
+-  In contrast to Kaiser et al.’s (2009) finding that the logophoricity effect can appear across animate local antecedents, Sloggett found that with argument-position reflexives, the source advantage is only present when the local antecedent is an impossible antecedent for the reflexive, in particular, when the local antecedent mismatches with the reflexive in two phi-features (number, gender) or when the local antecedent is inanimate.
