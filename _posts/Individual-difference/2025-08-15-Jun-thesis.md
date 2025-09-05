@@ -195,7 +195,7 @@ two types of discourse-level prominence
 -  43% of the time, Korean native speakers accepted LD binding of caki-casin, becuase caki-casin just like ta-ziji is considered as a typical local refleixves, but when there is a discourse prominent antecedent present in the sentence, they will also be LD bound as well.
 
 
-1.2.2.2 Logophoricity and ta-ziji
+## 1.2.2.2 Logophoricity and ta-ziji
 - source-advantage is the logophoricity effect 
 - a reflexive is taken to be logophoric if the relfexive is sensitive to the logophoric hierarchy
          -  consider the two ends of the logophoric hierarchy, which are source and perceiver
@@ -206,3 +206,36 @@ two types of discourse-level prominence
 -  In contrast to Kaiser et al.’s (2009) finding that the logophoricity effect can appear across animate local antecedents, Sloggett found that with argument-position reflexives, the source advantage is only present when the local antecedent is an impossible antecedent for the reflexive, in particular, when the local antecedent mismatches with the reflexive in two phi-features (number, gender) or when the local antecedent is inanimate.
 -   Korean caki-casin is sensitive to the source role of the non-local topically marked antecedent.
 -   LD binding by source is more acceptable than LD binding by self which is in turn more acceptable than LD binding by pivot.
+- Study by Xu and Runner did not see a logophoricity effect for compound reflexive, and this can due to the fail of selection of the logophric verbs, such as belief and preciver, instead of source and preceiver
+- For other studies, such as Kaiser etal., 2009 and Kim & Yoon, 2009
+         - they found that there is an effect for logophoricity, and this can be due to that they created an exempt enviorment, which is no strictly subject to synatctic binding theory
+           - such as Kaiser's Picture NP
+           - Kim and Yoon 2009's study, the matrix subject is also the discrouse and strucutral topic
+
+ ## 1.2.3 LD binding of ziji and ta-ziji: A summary
+
+ - ziji is necessarily empathic, which require the speaker/comprehender to take the pespective of its LD binder
+ - Empathic nature of ziji explains the blocking effect
+ - Not sure if ziji shows the logophricity effect with an attitude holder or source and its non-local antecedent, and the relation between the blocking effect and syntactic prominence is not determinered
+
+##  1.3 Antecedent retrieval and sentence processing
+- In sentence processing work on reflexive resolution, researchers are more concerned with the time course with which the various linguistic factors guide antecedent retrieval
+- mismatch between people's final offline interpretations and incremental potentially transient processing patterns
+         -  such as some linguitic factors or cues may play a role in offline judgment tasks but not necessarily in online parsing
+  - could mean that vertain non-syntactic factors are accessed at the later comprehnesion stages and other such as syntactic factors are accessed much earliers
+ 
+## 1.3.1 Standard cue-based retrieval model
+- Lewis and Vasishth (2005)
+- aims to explain moment-by-momemt antecedent retrieval in real-time parsing
+- memory is invovled
+         - procedural: building and attaching syntactic struccutres 
+           - declarative: non-procedural infromation: lexical information in long-term memeory, and recently processed lexical items and intermediate syntactic strcurtres in working memory
+- when a new lexical item is attached to the syntactic sturcure, the parser needs to check the current linguitstic strucure in the declarative memoery and activate the relevant node for attachment of the next lexcial items
+- when an anaphor is encounted, a dependence needs to be established between it and the antecedent
+- antecedent-anaphor dependency is established through the assoicaiton or overlap of retrieval cues encoded on the anaphor and the potential antecedent since the earliest moments of processing
+- more feature overlap means greater retrueval success and faster retrieval times
+- Assume for all cues, such as semantic. discoursal, syntactic all by default have similar weights
+- the standard model does not prioritize accessibility of certain linguistic cues over others
+
+## 1.3.2 Structure-based retrieval model
+- the main difference is that syntactic cues are priorized or weighted more heavily than semantic cues such as gender, number, animacy and other non-syntactic cues like discourse topicality 
