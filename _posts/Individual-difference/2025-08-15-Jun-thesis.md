@@ -452,4 +452,45 @@ two types of discourse-level prominence
  -  The term ‘neutral context’ refers to a context that lacks a discourse topic character
  -  The term ‘biased context’ refers to a context with a discourse topic character (e.g., Xiaoming) which is the (non-local) matrix subject of the critical sentence
  -  verb directedness (self/other-directed)
-- Experiment 3a = self-paced reading experiment 
+- Experiment 3a = self-paced reading experiment
+   - 
+
+## Predictions 3a
+- participants should prefer local antecedents with self-directed verbs and non-local antecedents with other-directed verbs
+- main effect for context = if discourse topic prominence infleucned the interpreaion of ziji
+- when non-local antecedent is the discourse topic in the baised context, then non-local choice preference should be stronger relative to the neutral context
+<img width="647" height="289" alt="Screenshot 2025-09-06 at 09 37 29" src="https://github.com/user-attachments/assets/2391c1b2-d7f4-405d-ac44-0d9ed49612dd" />
+- when verb is self-directed, local referents are preferred as antecdents in the biased context
+- when verb is other-directed, non-local referents are preferred 
+
+
+## Predictions 3b
+- the standard and strucure-based retrieval models will predict local bidning since there is no discrouse-level cues = netural context
+- other-directed verbs will lead to reading slowdowns at the reflexive region in netural context
+- baised contexts, the two processing models will make different predcitons
+         - topic empathy hierarchy
+           - paritipants should emphazie with or take the perspective of the discourse topic
+           - stnadard cue-based retrieval model = predicts that the language parsers will make quick use of the [+POV] cue in addition to [+Subj] for antecedent retrieval
+           - self-directed verb should cause reading slowdowns
+  - main effect of context is expected
+  - should prefer the prespective of the discourse topic after reading the context sentence = in reading the ensuing critical sentence with the discourse topic as the subject, we expect paritiapnts to maintain the perspective
+    
+## Results 3a
+- in the neutral context, the proportions of local choices under self-directed verbs are higher
+- proportions of non-local choices under other directed verbs are similar
+- both verbs show a preference for the referents favroed by the verb's semantic directionlity bias
+- discourse topicality influences paritiapnts antecedent choices as the discourse topic status of the non-local subject lowers the proportions of local choices 
+
+## Results 3b
+- First, words in the biased context are processed faster compared to the neutral context.
+- Second, the verb directedness effects already appear at the verb, prior to the reflexive ziji.
+- At the reflexive itself, RTs are faster in biased contexts than in neutral contexts, but there appears to be no effect of verb directedness.
+
+<img width="637" height="348" alt="Screenshot 2025-09-06 at 09 47 48" src="https://github.com/user-attachments/assets/86d17ed3-c028-4fc6-8112-25915927a26e" />
+
+## Discussion of Experiments 3a and 3b
+- invesitage the locality constraint, verb semantics and discourse topic prominenve guide the offline and online interpretation of ziji
+- judgement data show the interpreatation of ziji is strongly infleucned by verb directedness and the discourse topicality also increase the proporitons of non-local choices
+- standard cue-based retrieval model predicts that paritipants will immediate locate the discourse topic - notated with [+POV] due to its tendency to be empathized with
+ - as the antecedent at the earliest possible moments
+ - strcutre-based retrieval modle predicts that only syntactic cues such as locality information will be accessed by the paser and only local antecedents should be considered at this early stages
