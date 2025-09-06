@@ -48,10 +48,17 @@ Keep it simple
 2. Do individual differences play a role in binding of ziji?
 
 ## My thoughts 
-- design?
+- design? 2 x 2 (logophoricity verb in the subject position)
+- 张三 告诉 别人 [李四 害怕 自己 的 老板 不 负 责任] ES + Source
+- 张三 听说 [李四 害怕 自己 的 老板 不 负 责任] ES + Perceiver
+- 张三 告诉 别人 [李四 侮辱 自己 的 老板 不 负 责任] se + Source
+- 张三 听说 [李四 侮辱 自己 的 老板 不 负 责任] Se + Perceiver
 - empathy verb (se and es verb), logphoricity verb (source verb (tell, gaosu), preceiver verb (hear, tingshuo))
-- 4 conditions? 
-
+- design? 2 x 2 (logophoricity verb in the object position)
+- 张三 害怕 [李四 告诉 别人 自己 的 老板 不 负 责任] ES + Source
+- 张三 害怕 [李四 听说 自己 的 老板 不 负 责任] ES + Perceiver
+- 张三 侮辱 [李四 告诉 别人 自己 的 老板 不 负 责任] se + Source
+- 张三 侮辱 [李四 听说 自己 的 老板 不 负 责任] Se + Perceiver 
  
 ## Competition between Empathy, Logophor, and animacy hierarchies 
 
