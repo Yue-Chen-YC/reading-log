@@ -6,19 +6,53 @@ category: [Screening]
 ## Current Title: Animacy, Empathy Locus, and Logophoricity: An Individual-Differences Analysis of Reflexive Pronoun Resolution in Mandarin Chinese
 
 ## My thoughts 
-- things to talk about with Elsi:
-  - Jun's thesis, meeting with Jun, and my ideas
-  - Maybe consider submitting to camp?
-  - the cogsci x gorilla grant if I want to recruit adult speakers for the classifier project (also Erjing's acquisition data)
-  - Maybe do a SPR first, then a comprehension question for a second study = separate participants with fillers and attention checkers
-    - afraid that participants will focus on the reflective resolution 
+S Kuno empthy and syntax, 1970
+
+- Empathy and direct
+* empathy verb (fear, haipa) = experiencer = x amazed y = caused y to experience it, x feared y = stimulis 
+    * Se and es verb 
+* Source and previser verb 
+* Typology bethelion = se and es verbs 
+* How we are going to define empathy? 
+    * A good definition of empathy.
+    * Se and es verb will be interesting start point 
+* Psych verb literature = stimulis and experiences 
+* Someone experienced the emotion = expereincer = we tend to emphasize with that experimenter = empathy locus will refer to it 
+* Comment in class = collective noun
+
+Researching on verbal working memory and digit span memory 
+- What people are currently using for testing 
+- Handbook in psychology, and read around google scholar 
+
+animacy  = should leave it out
+
+Individual differences in sentence processing
+
+Think about what is the hypothesis, why it’s exciting for a linguist to look at ASD and working memory type of questions? 
+
+- individual variation in working memory (Cunnings & Felser, 2013) and reading speed (Yadav et al., 2022) and activation decay of antecedents (King et al., 2012).
+- Zribi-Hertz (1989) (also see Pollard & Sag, 1998, 2001) showed that literary British English allows empathic readings of himself/herself when the non-local antecedent is an empathy locus
+- Two real-time processing studies (Kaiser et al., 2009; Sloggett, 2017) suggest that logophoricity seems to modulate reflexive resolution
+* in the studies of Wang (2017a,b) and Lu (2011), the reflexives are in subject positions which are susceptible to emphatic readings (e.g., Pan, 1995; Xu, 1999).
+* According to research on exempt anaphors, attitude holders and empathy loci license exempt reading of reflexives (e.g., Charnavel & Zlogar, 2015; Charnavel, 2020, 2021).
+* In fact, this finding is consistent with Pan and Wang’s view (e.g., Pan, 2001; Wang & Pan, 2014, 2105a,b), namely, ziji is primarily empathic
+
+Keep it simple 
+
 
 ## current research questions 
-1. How syntactic factors (e.g., locality) and non-syntactic factors (e.g., animacy, logophoricity, empathy) impact reflexive resolution in Chinese?
+1. How syntactic factors (e.g., locality) and non-syntactic factors (e.g., logophoricity, empathy) impact reflexive resolution in Chinese?
    - Does the empathy locus and the discourse role (e.g., source vs. perceiver) of the perspective center impact LD binding of ziji?
    - Does the locality impact LD binding of ziji?
-2. Do individual differences play a role in LD binding of ziji?
+   - Which of the two processing models (cue-based model, structure-based model) do the results support? 
+2. Do individual differences play a role in binding of ziji?
 
+## My thoughts 
+- design?
+- empathy verb (se and es verb), logphoricity verb (source verb (tell, gaosu), preceiver verb (hear, tingshuo))
+- 4 conditions? 
+
+ 
 ## Competition between Empathy, Logophor, and animacy hierarchies 
 
 **Overall**: Syntactic constraint (binding) vs. Non-syntax constraints (empathy, logophoricity, and animacy)
