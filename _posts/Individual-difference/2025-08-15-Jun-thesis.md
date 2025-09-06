@@ -238,4 +238,218 @@ two types of discourse-level prominence
 - the standard model does not prioritize accessibility of certain linguistic cues over others
 
 ## 1.3.2 Structure-based retrieval model
-- the main difference is that syntactic cues are priorized or weighted more heavily than semantic cues such as gender, number, animacy and other non-syntactic cues like discourse topicality 
+- the main difference is that syntactic cues are priorized or weighted more heavily than semantic cues such as gender, number, animacy and other non-syntactic cues like discourse topicality
+- only when syntactic constraints are satisfied, then non-syntactic constraints be considered
+- syntactic accessibility/syntactic legitimacy = antecedents are syntactically more prominent (local, c-commanding)
+- syntactic cues (c-command, locality, subjecthood) are more prioritized compared to non-syntactic cues
+- early applicaiton of syntactic constraints does not mean that non-syntactic cues are ignored at all processing stages 
+- 2 views
+  - only syntactic cues are accessible at the early processing stages
+  - syntactic cues play a predominant role but do not entirely block the accessibility of the syntactically inaccessible antecedents
+ - Most studies supporting the structure-based model inspect the role of semantic cues such as gender, number, and animacy
+
+## 1.3.3 A critical review of the sentence processing literature
+- most studies support the strcuture-based retrieval models ((e.g., Nicole & Swinney, 1989; Sturt, 2003; Gao et al., 2005; Xiang et al., 2009; Van Dyke & McElree, 2011; Dillon et al., 2013, 2016; Qian & Wu, 2016; Cunnings & Sturt, 2014, 2018; Parker & Phillips, 2017; Wang, 2017; Jäger et al., 2020; also see the meta-analysis in Jäger et al., 2017).
+- few studies found early interference effect from non-local and/or c-commanding antecedents (e.g., Runner et al., 2006; Kaiser et al., 2009; Thompson & Choy, 2009; Chen et al., 2012; Jäger et al., 2015; Patil et al., 2016; Sloggett, 2017; Chang et al., 2020)
+- individual variation in working memory (Cunnings & Felser, 2013) and reading speed (Yadav et al., 2022) and activation decay of antecedents (King et al., 2012).
+         - mixed picture come from differences in experimental designs, nature of specific linguistic properties in certain languages, variation in the test population, and statistical power 
+
+## 1.3.3.1 What do studies on English reflexives tell us about antecedent retrieval?
+- priming effect is largest when the word is related to the local referent doctor, suggesting local antecedents are most activated arguably because participants tend to take the local referent as the antecedent.
+- the locality constraint highly restricts antecedent retrieval at the earliest moments of reflexive resolution.
+- Sturt (2003) found that English native speakers only considered local antecedents during the early processing stages
+- the discourse prominent but syntactically non-local antecedent Jonathan was not considered by English native speakers during early stages of comprehension
+- at later processing stages discourse prominence plays a role
+- supporting structure-based retrieval model: syntactic constraints filter out structurally inaccessible antecedents at an early stage
+- recall that Zribi-Hertz (1989) (also see Pollard & Sag, 1998, 2001) showed that literary British English allows empathic readings of himself/herself when the non-local antecedent is an empathy locus.
+- Two real-time processing studies (Kaiser et al., 2009; Sloggett, 2017) suggest that logophoricity seems to modulate reflexive resolution
+
+
+## Kaiser et al. (2009)
+- visual world eye-tracking, participants listened to audio stimuli while looking at the pictures on the computer screen
+- Kaiser et al. (2009) found that in sentences like (1.29-1.30) English native speakers showed early sensitivity to the source vs. perceiver role of the matrix subject --> source advantage 
+- Peter {told/heard from} Andrew about the picture of himself on the wall
+- Peter {told/heard from} Andrew about Greg’s picture of himself on the wall.
+- higher proportions of looking at peter in the source condition compared to the perceiver condition for both matrix subject in the local and non-local antecedent position
+- logophoricity modulates reflexive resolution at least with picture NP reflexvies
+
+## Sloggett (2017)
+- logophoricity and (object) argument reflexive resolution
+- The librarian {said/heard} that the schoolboys misrepresented herself at the meeting.
+- when local antecedent schoolboys is an impossible binder (due to the mismatch of two phi-features, gender and number)
+- English reflexives are “co-opted” as exempt anaphors which unsurprisingly show logophoric properties.
+- intervention effect
+<img width="687" height="208" alt="Screenshot 2025-09-05 at 19 29 25" src="https://github.com/user-attachments/assets/de57bad0-11d4-48ef-a049-09fa5898550d" />
+
+## Overall
+- the syntactic cue of structural locality has higher weight than non-syntactic cues such as gender, number, discourse topic prominence, logophoricity at least in English
+
+## 1.3.4 What can ziji and ta-ziji say about antecedent retrieval?
+- an event-related potential (ERP) study by Li and Zhou (2010) only examined what ERP effect is triggered in long-distance binding of ziji
+- This is because the local antecedent satisfies [+local] and [+animate] while the non-local antecedent only satisfies [+animate], which leads to higher probability of local retrieval due to complete cue overlap.
+- In a self-paced reading study, Chen et al. (2012) manipulated the animacy of the syntactically inaccessible distractor to test if semantic animacy guides antecedent retrieval despite its syntactic inaccessibility
+- reading times are slower when the syntactically inaccessible distractor is animate (e.g., ‘protesters’) compared to when it is inanimate (e.g., ‘protest’). This suggests that animacy is one of the cues that guide antecedent retrieval even though it is non-locally embedded in a temporal adjunct clause.
+- However, when ziji has a local animate antecedent, Chen et al. (2012) did not find an interference effect from the syntactically inaccessible distractor
+- Thus, the studies on Mandarin ziji seem to present a very different picture compared to studies on English reflexives
+- the linguistic properties of ziji are the reason behind the divergent findings in English and Chinese as ziji can appear in non-local environments more freely
+- partial cue match (matrix subject being [+animate, -local]) facilitates processing compared to no cue match (matrix subject being [-animate, -local])
+- locality bias found in prior studies on ziji and ta-ziji can be alternatively explained as a linear recency bias, rather than a structural or syntactic locality effect ?
+
+## 1.3.5 Reflexive resolution and antecedent retrieval models: A summary
+- reflexive resolution is clearly influenced by syntactic information such as syntactic locality
+- syntactic locality plays a predominant role in reflexive resolution, for both English and Mandarin reflexives.
+- research on ziji and ta-ziji suggests that semantic cues such as gender and animacy impact early-stage processing while research on English reflexives presents a more mixed picture
+
+## Chapter 2
+- "two-antecedent” design
+- Mandarin offers a ideal testing ground to disentangling linear recency and syntactic locality with its prenominal relative clasue structures
+- If linear recency impacts relfeixve resolution, in an incremental reading task, we will expect reading time slowdowns at and/or after the reflexive when NP1 mismatches in semantic features with the reflexive, compared to when NP1 matches the animacy of the reflexive
+- If syntactic locality guides reflexive resolution, we should see reading slowdowns at and/or after NP2
+
+## 2.2 Antecedent retrieval models
+- the standard cue-based retrieval model and the structure-based retrieval model
+- relevant retrieval cues = semantic animacy and syntactic locality
+- standard cue-based retrieval model: assumes that all retrieval cues, syntactic or not, can be immediately used fro antecedent retrieval
+- strcuture-based retrieval model: syntactic cues are prioritized in early-stage comprehension
+- Only when syntactic constraints are satisfied is non-syntactic information accessed
+- predicts that animacy of the syntactically inaccessible NPs should not impact reflexive resolution
+- structure-based retrieval mechanism can make predictive use of the relative clause structure to anticipate the head noun to resolve the ambiguity.
+
+## 2.4 Experiment a
+- two antecedent design
+  - the local NP is also the linearly closer NP
+  - acceptability judgment task = final interpretation of the reflexive
+  - factors: reflexive (ziji/ta-ziji)
+  - distance: recent/distant
+  - factorial design
+
+<img width="641" height="619" alt="Screenshot 2025-09-05 at 20 22 16" src="https://github.com/user-attachments/assets/6f7fdb25-cd8c-44c2-bea6-c106b5d51e17" />
+
+## Predictions
+- main effect of distance is expected: sentence with recent animate antecedents should be more acceptable than those with distance animate antecedentd
+- interaction of relfeixve and distance: if the recency/locality biases associated with ziji and ta-ziji are different: the aniamcy mismatch effect shown by ziji may be different compared to ta-ziji
+
+## analysis 
+- Mixed effects ordinal regression
+- The fixed effects are Reflexive and Distance
+- The random effects are slopes and intercepts grouped by participants and items
+- sum coding were fitted for the factors of reflexive and distance
+- Statistical models were fitted parsimoniously (Bates et al., 2015): simpler models are preferred over more complex models if the models do not differ significantly
+
+## Results 
+- main effect of reflexive (p - 0.001)
+- main effect of distance (p < 0.001)
+         - assumeing the higer acceptability is correalted less processing cost, then sentence containing ziji is easier to process than sentences containing ta-ziji = higher frequency of ziji
+  - higher frequency = easier access
+  - Chinese speakers prefer short-distance bidning over long-distance bidning
+  - the interaction between reflexvie and distance is not significant
+  
+<img width="722" height="168" alt="Screenshot 2025-09-05 at 20 28 55" src="https://github.com/user-attachments/assets/42fa67cd-03d6-46f2-b7da-fcc61c5c8ffc" />
+
+## Discussion 
+- replicated the locality/recency bias of ziji and ta-ziji 
+
+## 2.4 Experiment 1b
+- Experiment 1b is a self-paced reading experiment which reflects incremental comprehension processes
+- pariticpants read sentences presented region by region
+- at the end of each sentence, paritipants answered the two-alternative comprehension question that does not probe the interpretation of the reflexvie
+- the accuarcies of paritipants' answer choices were used as indicators of attention
+
+## 2.4 Experiment 1b data analysis 
+- accuracies below 75% would be removed due to concern with lapse of attention during the experiment
+- RTs shorter than 100 ms and longer than 3000ms were removed as outliers
+- RTs above 2.5 SDs of the mean were also removed. These two steps affected 3.23% of the original data
+- Statistical analyses were conducted over both raw and log-transformed RTs using mixed effects linear regression
+
+## 2.4 Experiment 1b results 
+
+<img width="739" height="428" alt="Screenshot 2025-09-05 at 20 34 33" src="https://github.com/user-attachments/assets/c555812a-2761-4d1b-9f98-ea08f1988025" />
+
+- at the critical region, there is a main effect of reflexive (p < 0.001)
+- Main effect of distance and the reflexive x distance interaction are not significant
+- Experiment 1b did not find any evidence suggesting a locality/recency bias difference between ziji and ta-ziji
+- could be that by default ziji is syntactic anaphor governed by principle A, unless triggered by discourse-pragmamtic = perspective-taking factors
+
+## 2.5 Experiment 2a
+- acceptability judgment task
+- Reflexive ziji/taziji, positon local/recent were crossed in a factorial design
+- position = position of the animate antecedent
+- in local condition = animate antecdents are post-reflexvie
+- recent condition = animate antecedent are pre-reflexvie 
+
+## Prediciton 
+- First, if the ‘locality bias’ is in fact linear recency, participants should prefer reflexive binding by a linearly recent, animate antecedent than by a post-reflexive, animate antecedent.
+- main effect of position
+- reflexive x position interaction = the acceptability difference between the recent and local conditions may be different for ziji and ta-ziji
+
+## Results
+<img width="773" height="573" alt="Screenshot 2025-09-05 at 20 43 09" src="https://github.com/user-attachments/assets/96386e71-f3f5-4215-bdfd-1ff73acbca6b" />
+
+
+## Discussion 
+- Chinese speakers prefer local binding instead of recent binding
+- syntactic locality is a separate factor from linear recency 
+
+
+
+## 2.5 Experiment 2a
+- self-paced reading
+
+## Prediciton 
+- If Chinese speakers attempt to bind the reflexvie to the linearly recent matrix subject, the inanimate matrix subjects in the local match should lead to reading slowdowns = an aniamcy misamtch effect
+- Main effect of position 
+
+## Results 
+- main effect of relfexive (p < 0.001)
+- taziji is longer than ziji
+- signficant reflexvie x position interaction (p < 0.005)
+- the animacy of the linearly recent antecedents impacts the processing of ziji and ta-ziji in different ways
+<img width="761" height="444" alt="Screenshot 2025-09-05 at 20 48 35" src="https://github.com/user-attachments/assets/8a3f7f11-cc3e-42a1-9ee4-767aca27e320" />
+
+## Discussion 
+- syntactic locality and linear recency
+- providing empirical evidence that linear recency and syntactic locality both guide antecedent retrieval
+- both linear recency and syntactic locality guide antecedent retrieval
+
+## 2.6.1 Summary of results
+- the offline acceptability judgment and online self-paced reading experiments show that syntactic locality plays a distinct role from linear recency
+- syntactic locality should not be conflated with linear recency
+- the experiments in this study did not show strong evidence that the locality bias strengths of ziji and ta-ziji are different
+- at the early processing stages that ta-ziji is not immediately bound to the linearly recent antecedent
+- ta-ziji may be more sensitive to the syntactic locality constraint than ziji is
+
+## 2.6.2 Implications for sentence processing and theoretical linguistics
+- both sentence processing models and lingusitic theories
+- experiment 2b = predicitons with standard cue-based retrieval model which does not assign any privileged status to syntactic constraints
+- animacy of the syntactically inaccessible antecedent outside of local domain has been found to modulate the processing patterns of ziji
+- structure-based retrieval model is not entirely refuted either due to the early Reflexive x Position interaction at the reflexive region with ta-ziji
+- However, this assumption leaves aside the following question: when is ziji used as a syntactic anaphor and when is it used as an exempt anaphor?
+- In this study, only two items have perceiver verbs while the rest (22 items) have source verbs (e.g., ‘say’, ‘state’, ‘disclose’, ‘confess’, ‘claim’) and belief verbs (‘think’) which make the matrix subject attitude holders.
+- According to research on exempt anaphors, attitude holders and empathy loci license exempt reading of reflexives (e.g., Charnavel & Zlogar, 2015; Charnavel, 2020, 2021). Thus, we could expect that the availability of an attitude holder can cue the participants to have an exempt reading of ziji.
+
+## Chapter 3: Discourse topic prominence and reflexive resolution
+- The discourse-level factor this chapter focuses on is discourse topic prominence
+- discourse topicality may impact the resolution of ziji through perspective-taking and the resolution of ta-ziji through a non-perspectiverelated prominence constraint
+- examine the interaction of verb semantics and the locality constraint selfdirected verbs and other-directed verbs. Self-directed verbs (or ‘introverted’ verbs) describe actions that “one generally performs upon one’s self” and other-directed verbs (or ‘extroverted verbs’) denote actions that one “usually performs towards others”
+
+## 3.2 Discourse topic prominence and Mandarin reflexives
+- For instance, using Sell’s (1987) terminology, Huang and Liu (2001) showed that the long-distance use of ziji is allowed when the antecedent is a source (intentional agent of communication), self (one whose mental state or attitude the proposition describes), or pivot (one with respect to whose space-time location the proposition is evaluated)
+- source, self, and pivot roles can be perspective centers (or empathy loci)
+- if the speaker puts him/herself in the shoes of the non-local antecedent or assumes the perspective of the empathy locus, long-distance binding is licensed
+- Topic Empathy Hierarchy (Kuno, 1987),
+  - involving two participants A and B such that A is a discourse topic, it is easier to take the perspective of A than B
+  - predicts that readers should prefer the perspective of Xiaoming
+  - perspective-sensitive ziji should tend to be interpreted as referring to the perspective center Xiaoming (rather than Professor Wang)
+ 
+## 3.3 Verb semantics and Mandarin reflexives
+- I follow Pollard and Xue (2001) in assuming that an empathic reading can be triggered when language specific discourse/pragmatic constraints (e.g., logophoricity, discourse prominence) are satisfied
+- whether the prominence constraint for ta-ziji can be extended to the discourse level and (ii) whether syntactic locality is a stronger constraint than verb semantics for ta-ziji.
+
+## 3.6 Experiment 3: Processing of ziji in discourse
+- Experiment 3a = forced choice judgment task
+ -  two factors
+ -  context (neutral/biases)
+ -  The term ‘neutral context’ refers to a context that lacks a discourse topic character
+ -  The term ‘biased context’ refers to a context with a discourse topic character (e.g., Xiaoming) which is the (non-local) matrix subject of the critical sentence
+ -  verb directedness (self/other-directed)
+- Experiment 3a = self-paced reading experiment 
