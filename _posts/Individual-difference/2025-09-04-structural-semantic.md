@@ -52,9 +52,31 @@ The picture of him/himself
 - a purely structural approach is insufficient to capture their referential properties, especially in pos-sessorless PNPs.
 
 ## 1.3. General aims of this paper
+1. how strcutural and semantic constrqints infleucnes pariticiapnts' final interpreations of pronouns and reflexvies
+2. the time-course with which different constraints infleucne the processing of these forms
+3. complement and extend exisiting work by testing whether the source and perceiver hypotheses are supported by experimental data for the on-line interpreation of posseorless PNP as well as for PNP
+4. test the asymmetrical sensitvitiy that the form-specific multiple-constraints appraoch permits also applies to the within-sentence domain and whether strcutural and semantic constraints show wualitativiely dfferet behavior during real-time processing
+5. the relative weights of syntactic and semantic informaiton: how much of an infleucne does semantic informaiton exert on the interpretation of pronouns and refelxvies, as compared to the infleucne of syntactic information? 
+
+(7a) Peter told John about the picture of himself/him on the wall
+(7b) Peter heard from John about the picture of himself/ him on the wall
+
+- create situations in which structural constraints and non-structure constraints are pitted against each other as well as they are aligned and favor the same antecedent
+
+## 1.4. Nature of the relation between structural and semantic constraints
+
+- If both syntactic and semantic constraints play a role, and if their relative weights are the same for pronouns as for reflexives, then we predict that in sentences like (7a) and (7b):
+
+**(i)** with pronouns, there will be more subject interpretations with hear than with tell (based on the perceiver preference hypothesis in (6))
+**(ii)** with reflexives, there will be more object interpretations with hear than with tell (based on the source preference hypothesis in (4))
+**(iii)** if the relative weights of structural and semantic information are the same for pronouns and reflexives, the proportion of subject and object choices triggered by one form should be ‘mirrored’ by the proportion of subject and object choices triggered by the other form. In other words, whatever levels of sensitivity reflexives show to structural and to semantic information, pronouns will show the same levels of sensitivity.
+
+-  real-time language processing is continuously guided by multiple weighted constraints
+-  we expect to see early effects of both structural and semantic constraints and can observe when potential asymmetries in the constraint weights for pronouns and reflexives emerge during real-time processing
 
 ## Method 
 
+## 2. Experiment 1: picture verification
 ## Analysis 
 
 ## Conclusion 
