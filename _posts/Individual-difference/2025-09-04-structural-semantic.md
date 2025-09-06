@@ -15,7 +15,12 @@ Kaiser, E., Runner, J. T., Sussman, R. S., & Tanenhaus, M. K. (2009). Structural
 ## Summary 
 
 总结
-- 在“picture NP”（如 Andrew’s picture of him/himself）里，代词和反身词的指称不是单靠结构说了算；语义/话语因素（谁是信息的“来源”source、谁是“感知者”perceiver）也会早早介入，而且两类指称形式对这些约束的权重不一样：反身词更吃结构，代词结构与语义势均力敌。
+- 在“picture NP”（如 Andrew’s picture of him/himself）里，代词和反身词的指称不是单靠结构说了算；语义/话语因素（谁是信息的“来源”source、谁是“感知者”perceiver）也会早早介入，而且两类指称形式对这些约束的权重不一样
+- 反身词更吃结构，代词结构与语义势均力敌。
+- 在非属格的 picture-NP 里（Experiments 1/2b），反身词对source有稳定但偏弱的偏好：眼动里大约在200–250 ms就冒头；更晚的1400–1800 ms时间窗里，动词操纵带来显著效应，直接支持“反身词偏 source、代词偏 perceiver”这套说法。
+- 在反身词条件下，当宾语是 source（heard）时，被试看宾语图的比例更高于 told，F(1,8)=6.44, p<.05。也就是说，source 身份会把注意力往“非结构偏好”的方向拽一点。
+- 到有属格的 picture-NP（Experiment 3）：反身词几乎被possessor 约束钉死（选择里 possessor ≈90–92%），也明说在这种结构下source 约束太弱，基本检测不到。
+  - 属格结构： 属格结构就是名词短语里带**“谁的”**那个壳。句法上是 genitive/possessor，表示所属或与名词的紧密关系。X’s N（Lisa’s picture），或 the N of X（the picture of Lisa）。
 
 方法总览（操纵与任务）
 
