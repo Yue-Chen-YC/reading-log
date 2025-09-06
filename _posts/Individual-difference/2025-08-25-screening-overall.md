@@ -44,8 +44,8 @@ Keep it simple
 1. How syntactic factors (e.g., locality) and non-syntactic factors (e.g., logophoricity, empathy) impact reflexive resolution in Chinese?
    - Does the empathy locus and the discourse role (e.g., source vs. perceiver) of the perspective center impact LD binding of ziji?
    - Does the locality impact LD binding of ziji?
-   - Which of the two processing models (cue-based model, structure-based model) do the results support? 
-2. Do individual differences play a role in binding of ziji?
+   - Which of the two processing models (cue-based model, structure-based model) do the results support?
+2. Do individual differences play a role in the binding of ziji?
 
 ## My thoughts 
 - design? 2 x 2 (logophoricity verb in the subject position)
