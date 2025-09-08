@@ -41,6 +41,13 @@ Degree of Empathy: The degree of the speaker’s empathy with x, E(x), ranges fr
 
 - Topic Empathy Hierarchy:
   - Given an event or state involving A and B such that A is coreferential with the topic of the present discourse and B is not, it is easier for the speaker to empathize with A thank with B
+ 
+- zibun has at least three distinct uses: reflexive, logophoric, and empathic (perspectival)
+  - compatibility with first personpronouns
+  - possibility of non-subject/discrouse binding
+  - de se interprtion
+ 
+  
 
 
 
