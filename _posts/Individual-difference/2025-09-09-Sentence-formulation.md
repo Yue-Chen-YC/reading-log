@@ -17,3 +17,12 @@ Do, M. L., & Kaiser, E. (2022). Sentence formulation is easier when thematic and
 
 
 ## Introduction  
+- speakers typically map the most comceptually salient entity to the most syntactically prominent role, when in English is typically the subejct of the sentecne
+  - active/passive alternation
+  - most conceptually salient entities should be animate
+  - human
+  - highly imageable/concrete
+ 
+- Ferreira 1994
+  - thematic role = role that an entity plays in the larger event can also infleunce subject selection
+  - speakers prefer to map the most prominent element in the thematic hierarchy to the most prominent grammatical role in the sentence 
