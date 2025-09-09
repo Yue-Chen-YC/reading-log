@@ -39,7 +39,7 @@ Degree of Empathy: The degree of the speaker’s empathy with x, E(x), ranges fr
 - empathy locus = the particiapnt that receivers the highest degree of empathy within a clause
 <img width="1016" height="203" alt="Screenshot 2025-09-08 at 14 54 34" src="https://github.com/user-attachments/assets/00ae1467-d249-406a-b927-6d150e600956" />
 
-- Topic Empathy Hierarchy:
+- Topic Empathy Hierarchy (Kuno 1987:210):
   - Given an event or state involving A and B such that A is coreferential with the topic of the present discourse and B is not, it is easier for the speaker to empathize with A thank with B
  
 - zibun has at least three distinct uses: reflexive, logophoric, and empathic (perspectival)
@@ -48,7 +48,10 @@ Degree of Empathy: The degree of the speaker’s empathy with x, E(x), ranges fr
   - de se interprtion
  
   
+<img width="796" height="346" alt="Screenshot 2025-09-08 at 20 29 28" src="https://github.com/user-attachments/assets/12321dfe-006d-4919-bc57-e790beb15427" />
 
 
-
+- empathy relation: is the relative degree to which entities are empathized with by the speaker
+  - should be treated as a contextually provided partially order set of individuals
+  - 
  
