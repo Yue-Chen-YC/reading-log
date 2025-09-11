@@ -20,5 +20,10 @@ Lyu, J., & Kaiser, E. (2024). Logophoricity and the processing of Chinese reflex
 - during incremental processing, different types of discourse infroamtion can be accessed at different processing stages
 
 ## Introduction 
-- 
+- logophoricity refers to the property of some pronouns called logophoricity pronouns, which are anchored to individuals whose thoughts, feelings, and general states of consciousnss are reported
+  - shown in some West Afarican languages, and some LD reflexives such as Icelandic, Japanese, and Chinese
+
+- Due to this connection, long-distance reflexvies referring to perspective centers are widely called logophoric reflevies or exempt reflexives
+- ziji can have an exempt use which means they are sensitive to logophoricity
+- complex ta-ziji is often a local anaphor constrained by Principle A 
 
