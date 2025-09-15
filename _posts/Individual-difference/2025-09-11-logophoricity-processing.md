@@ -75,4 +75,9 @@ They said that they looked at discourse topicality and logophorici roles, but th
 -  when tipical matrix subject has the loogohpotic tole of srouce, taizji tends to be used as an exempt reflexives
 -  different subtypes of discourse level informaiton may be accessed at different time points during relfeixve resolution, just like different classes, such as syntactic and sematnic/discourse of informaiton may be accessed at different time poitns = present chanllagnes for the uniforma multiple constraints account
 -  taizji can be used a sa logophotic reflexive when the non-local antecedent is a sufficiently prominent perspective center
--  
+
+## Humanness emapthy hierarchy 
+- people tend to take the perspective of a human rather than that of an inanimate enity
+- taizji can be used as an exmpet relfeixve if the non-ocal subject is a strgoner perspective center than the local subject
+
+
