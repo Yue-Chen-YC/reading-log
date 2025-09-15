@@ -45,3 +45,22 @@ They said that they looked at discourse topicality and logophorici roles, but th
 - Chinese speakers strongly favor non-local binding when the biased verb preceding ziji is other-directed and favor local binding when the verb is self-directed.
 - this stregnthens the wide-spread view that reflexive resolution is not only dirven by syntactic which is locality favtors but also by semantic factors
 - It seems that all types pf disctouse-level infroamtion have an equal impact at early processing stages 
+
+## Experiment 2a
+- main effect of verb bias, non-local bidning is preferred with other -directed vebrs, and local binding is preferred with self-directed verbs
+- the meain effect of logophoric role is onlky marginal
+- there is no verb bias x logophoric role interaction
+- planned comparsions reveal an effect of logophoric tole with self-directed verbs, which the soutrved attract more non-local choices than perceivers, but not with the other-directed verbs
+- taziji behaves similiartly to ziji in terms of the verb bias effect and the logophotic role effect
+- taziji shouwed a weaker disvoutse topicality effect compared to ziji, with lower proportion of non-;coal choices and slightly weaker soutce effevt within the self-directed verb condition
+- replicates precious findings by Lyu and Kaiser 2023, where ziji shows stronger non-local binding preferences than ta-ziji in contexts with topical matrix subjects but not in neutral contexts without topical referents.
+- they argue that ziji is more likely to be infelucned by disourse topicality, and there is no evidence that the two relxive proms differ in their sensitivty to the logophotic tole of the perspective center
+
+## Experiment 2b
+- there is no main effect of verb bias, which means there is evidence of discourse topicality plays an early role in the processing of taziji, becuase when the non local subejct is non-topical, a locality bais should emerge.
+- in ther perceiver condition, the verb bias effect is not significant
+- at the wrap-up region, only the verb bias x logophotic tole interaction reaches signficiance, which means they find that the verb bias effect (e.g., non-local binding preference) is only significant in the source conditon but not in the perceiver conditions
+- The logophroci role effect seems delayed reltvie to the discourse topicality effect, and it provided additional novel evidence that ta-ziji tends to be usec as a non-lcoal exempt reflexive when its antecedent is a topical source
+
+## discussion
+- 
