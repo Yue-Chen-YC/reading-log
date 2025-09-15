@@ -63,4 +63,16 @@ They said that they looked at discourse topicality and logophorici roles, but th
 - The logophroci role effect seems delayed reltvie to the discourse topicality effect, and it provided additional novel evidence that ta-ziji tends to be usec as a non-lcoal exempt reflexive when its antecedent is a topical source
 
 ## discussion
-- 
+- the goals of experimetn 2a and 2b are to exaime taziji's binding preferences in the presence of to[icallity and logopho0ricallybprominent such as source and perceiver antecents
+- experiment 2a shows that antecedent choice patterns elicited by ta-ziji resemble those of ziji in experimetn 2a
+- stronger predernce for source topical subjects within the seld-directed verb consitions conforming to logoophortic hierarcky
+- complex reflexives in other languahe taijizi is constrained by the logophotic hierarcky originally proposed for pure logoophoitc languahes
+- taziji is sensntivie to logoophotic hierrcky but does not informe us about the binding preferences, whehther ta-ziji tends to be used as an exempt reflexive referring to perspective centers
+- verb bias eddect as a diagnositc tool, such as reading slowdonws elicited by self-directed and toher-directed verbs indicate non-;ocal and local bidnign perferences
+- within the perceiver consitions, when the matrix subject is tipically prominennt but not preminnent on the lgoophoric hierarch, chinese speakers do no show a oreference for either local or non-lcoal bidning
+- the weaker discourse topicality effect shown by taziji which is absence of verb bias effect relative to ziji in online processing echoes out comparative analysis on chinese peakers
+-  antecedent choices in experiments 1a and 2s, which they dound weaker preferences for non-local bidning with taziji comapred to ziji
+-  when tipical matrix subject has the loogohpotic tole of srouce, taizji tends to be used as an exempt reflexives
+-  different subtypes of discourse level informaiton may be accessed at different time points during relfeixve resolution, just like different classes, such as syntactic and sematnic/discourse of informaiton may be accessed at different time poitns = present chanllagnes for the uniforma multiple constraints account
+-  taizji can be used a sa logophotic reflexive when the non-local antecedent is a sufficiently prominent perspective center
+-  
