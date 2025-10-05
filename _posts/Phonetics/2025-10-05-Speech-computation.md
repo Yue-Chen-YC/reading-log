@@ -9,6 +9,17 @@ Bhaya-Grossman, I., & Chang, E. F. (2022). Speech computations of the human supe
 - How are the local neural populations that encode distinct acoustic properties ultimately integrated into a cohesive and experience-based reflection of speech input?
 - To what extent does the category information integrated into phonological analysis adapt to changing language contexts in the case of multilingual speech perception? 
 - 我感觉他们很有趣
+- 这两个问题“触到”的核心议题，可以概括为：大脑如何把分散的声学信息整合成有意义、可经验塑形的语音表征，以及这些表征在多语情境下如何随语境动态适配。更具体地说，它们涉及以下关键方向：
+- 神经层级上的整合机制
+  - 分布式到整合：不同局部神经群体分别编码不同的声学特征（如共振峰、音高、起始时间、瞬态等）。问题在于，这些“局部特征码”如何在时间上对齐、在空间上汇聚，形成稳定的音位/音节/词级表征。
+  - 自下而上与自上而下：感觉皮层的特征提取如何与前额叶/顶叶的注意、预测、语义先验交互（预测编码、主动推断），在噪声或退化输入下仍保持鲁棒性。
+  - 时间整合窗与节律：θ/β/γ等神经振荡如何提供时间框架来绑定特征，支撑音节级与特征级的耦合（theta–gamma coupling）。
+  - 可塑性与学习：经验（识别词汇、语音范畴训练）如何通过突触可塑性改变这些通路，使整合更高效（从特征绑定到类别化）。
+- 范畴化与音系分析的情境适配（特别是多语感知）
+  - 语言依存的范畴边界：不同语言对同一声学连续体设定不同的音位边界（如 /r/-/l/、送气与清浊、声调类别）。问题在于，大脑如何根据当前语言情境切换“范畴模板”。
+  - 线索权重重分配：在多语者中，不同线索（VOT、F0、共振峰过渡）权重会随语言模式、语境提示、说话人信息而快速调整（快速适应与慢速学习并存）。
+  - 上下文与预测：语境、词汇频率、语法框架如何改变音位判定阈值（类别漂移）、以及在代码转换时如何避免冲突。
+  - 神经实现：是否存在可观测的“语言状态”网络（如额顶控制网络与听皮层的可塑耦合）来门控范畴化方案；皮层/纹状体/小脑在切换与稳定中的角色。
 
 ## summary
 核心是在回答一个问题：
